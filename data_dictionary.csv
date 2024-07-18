@@ -1,0 +1,39 @@
+Entity,Source System,Table Name,Column Name,Data Type,Required,Unique,Description,Value Example,Primary Key,Foreign Key,Foreign Key Table,Foreign Key Column
+User,usr,users,UserID,INT,Y,N,Description for UserID,52343,Y,N,,
+User,usr,users,Email,VARCHAR(50),Y,N,Description for Email,alvaro.agudelo@gmail.com,N,N,,
+User,usr,users,Address,VARCHAR(50),Y,N,Description for Address,598 Neva Circle,N,N,,
+User,usr,users,ZipCode,VARCHAR(10),Y,N,Description for ZipCode,97530,N,N,,
+Creditcard,usr,creditcards,CreditCardID,INT,Y,N,Description for CreditCardID,405,Y,N,,
+Creditcard,usr,creditcards,CreditCardExpirationDate,DATE,Y,N,Description for CreditCardExpirationDate,2023-05-14,N,N,,
+Creditcard,usr,creditcards,UserID,INT,Y,N,Description for UserID,96628,N,Y,usr.users,UserID
+Listing,li,listings,ListingID,INT,Y,N,Description for ListingID,478752,Y,N,,
+Listing,li,listings,SellerID,INT,Y,N,Description for SellerID,90141,N,Y,usr.users,UserID
+Listing,li,listings,ProductID,INT,Y,N,Description for ProductID,99838,N,N,,
+Listing,li,listings,Gender,CHAR(1),N,N,Description for Gender,M,N,N,,
+Listing,li,listings,Size,VARCHAR(4),N,N,Description for Size,7,N,N,,
+Listing,li,listings,ListingPrice,DECIMAL(8,N,N,Description for ListingPrice,73.00,N,N,,
+Listing,li,listings,ListingType,VARCHAR(20),Y,N,Description for ListingType,Auction,N,N,,
+Listing,li,listings,ListingCreateDate,DATE,Y,N,Description for ListingCreateDate,2020-11-01,N,N,,
+Order,op,Orders,OrderID,INT,Y,N,Description for OrderID,8140,Y,N,,
+Order,op,Orders,BuyerID,INT,Y,N,Description for BuyerID,99173,N,Y,usr.users,UserID
+Order,op,Orders,CreditCardID,INT,Y,N,Description for CreditCardID,50024,N,Y,usr.creditcards,CreditCardID
+Order,op,Orders,TaxRatePercent,SMALLINT,Y,N,Description for TaxRatePercent,7,N,N,,
+Order,op,Orders,ShippingAddress,VARCHAR(100,N,N,Description for ShippingAddress,NULL,N,N,,
+Order,op,Orders,OrderDate,TIMESTAMP,Y,N,Description for OrderDate,2020-11-02 18:02:41,N,N,,
+Orderitem,op,OrderItems,OrderID,INT,Y,N,Description for OrderID,8140,N,Y,op.Orders,OrderID
+Orderitem,op,OrderItems,ListingID,INT,Y,N,Description for ListingID,6360,N,Y,li.listings,ListingID
+Ordershipment,op,OrderShipments,ShipmentID,INT,Y,N,Description for ShipmentID,537348,Y,N,,
+Ordershipment,op,OrderShipments,OrderID,INT,Y,N,Description for OrderID,23771,N,Y,op.Orders,OrderID
+Ordershipment,op,OrderShipments,TrackingNumber,VARCHAR(30,N,N,Description for TrackingNumber,ZP0L3WZB2DA6M66X,N,N,,
+Ordershipment,op,OrderShipments,OrderShipDate,DATE,Y,N,Description for OrderShipDate,2020-12-08,N,N,,
+Item,im,Items,ItemID,INT,Y,N,Description for ItemID,1881,Y,N,,
+Item,im,Items,ItemName,VARCHAR(100),Y,N,Description for ItemName,Birgit,N,N,,
+Item,im,Items,SellerID,INT,Y,N,Description for SellerID,29694,N,N,,
+Item,im,Items,BrandName,VARCHAR(100),Y,N,Description for BrandName,Bostonian,N,N,,
+Item,im,Items,Color,VARCHAR(15),Y,N,Description for Color,white,N,N,,
+Item,im,Items,Size,VARCHAR(4),Y,N,Description for Size,2,N,N,,
+Item,im,Items,Sex,VARCHAR(10),Y,N,Description for Sex,Male,N,N,,
+Item,im,Items,ItemStatus,VARCHAR(50,N,N,Description for ItemStatus,approved,N,N,,
+Customerservicerequest,cs,CustomerServiceRequests,ID,INT,Y,N,Description for ID,442430,Y,N,,
+Customerservicerequest,cs,CustomerServiceRequests,UserID,INT,Y,N,Description for UserID,58868,N,N,,
+Customerservicerequest,cs,CustomerServiceRequests,Email,VARCHAR(50,N,N,Description for Email,NULL,N,N,,

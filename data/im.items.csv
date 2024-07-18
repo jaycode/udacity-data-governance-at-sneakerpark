@@ -1,0 +1,798 @@
+itemid,itemname,sellerid,type,brandname,color,size,sex,condition,itemstatus,arrivaldate
+2333,Gisela,99900,Sandals,Puma,brown,14,Male,like new,approved,2020-09-29
+17297,Maira,99900,Sneakers,Adidas,white,11,Female,used,listed,2020-10-02
+47335,Lesley,99900,Sandals,Converse,brown,3,Male,like new,approved,2020-10-18
+53088,Nickie,99900,Sneakers,Vans,white,3,Male,used,approved,2020-09-27
+61135,Era,99900,Sneakers,Reebok,black,14,Male,new,listed,2020-09-29
+66583,Era,99900,Sneakers,Reebok,white,4,Male,like new,sold,2020-10-23
+82817,Alethea,99900,Sneakers,Nike,black,14,Male,new,approved,2020-10-08
+10996,Era,99173,Sneakers,Reebok,gray,2,Male,new,sold,2020-10-10
+23804,Ulysses,99173,Dress,Tommy Hilfiger,black,12,Male,new,approved,2020-10-27
+32560,Alethea,99173,Sneakers,Nike,black,11,Male,new,listed,2020-10-17
+38964,Ulysses,99173,Dress,Tommy Hilfiger,yellow,14,Male,new,approved,2020-10-29
+46646,Fae,99173,Sneakers,LeBron,black,7,Male,like new,approved,
+65684,Eveline,99173,Dress,Berluti,gray,6,Female,new,listed,2020-10-04
+69703,Era,99173,Sneakers,Reebok,brown,11,Male,used,listed,2020-10-25
+83100,Maira,99173,Sneakers,Adidas,white,8,Female,new,sold,2020-10-04
+89466,Hubert,99173,Sneakers,New Balance,gray,5,Male,new,approved,2020-10-31
+97863,Lesley,99173,Sandals,Converse,white,11,Male,new,listed,2020-10-18
+99655,Bobby,99173,Boots,Johnston & Murphy,white,11,Male,new,listed,2020-09-28
+47064,Maira,99111,Sneakers,Adidas,brown,7,Female,new,listed,2020-09-26
+15016,Gisela,98786,Sandals,Puma,black,8,Male,new,,2020-10-19
+79285,Lesley,98786,Sandals,Converse,gray,5,Male,new,sold,2020-09-27
+97639,Riley,98786,Sneakers,Fila,yellow,14,Male,like new,,2020-10-15
+34678,Mirna,98688,Dress,Under Armour,blue,10,Female,new,approved,2020-09-27
+59541,Era,98688,Sneakers,Reebok,black,0,Male,used,listed,2020-09-26
+63975,Hubert,98688,Sneakers,New Balance,brown,1,Male,new,approved,2020-09-27
+96613,Gaston,98688,Sandals,Testoni,black,8,Male,used,listed,2020-10-02
+15920,Alethea,98630,Sneakers,Nike,black,13,Male,new,approved,
+28441,Fae,98630,Sneakers,LeBron,brown,4,Male,new,sold,2020-10-31
+37604,Lesley,98630,Sandals,Converse,gray,2,Male,used,approved,2020-09-29
+50381,Eveline,98630,Dress,Berluti,white,14,Female,new,approved,2020-09-26
+71559,Hubert,98630,Sneakers,New Balance,yellow,10,Male,like new,approved,2020-09-26
+77588,Alethea,98630,Sneakers,Nike,yellow,8,Male,used,listed,2020-09-29
+78221,Ulysses,98630,Dress,Tommy Hilfiger,black,0,Male,new,listed,
+82732,Birgit,98630,Dress,Bostonian,brown,0,Female,like new,listed,2020-10-23
+11787,Nickie,98196,Sneakers,Vans,blue,14,Male,used,approved,2020-10-04
+57503,Alethea,98196,Sneakers,Nike,black,11,Male,new,,2020-09-26
+80777,Maira,98196,Sneakers,Adidas,brown,6,Female,like new,approved,
+22309,Era,98114,Sneakers,Reebok,white,12,Male,like new,approved,2020-09-29
+24156,Eveline,98114,Dress,Berluti,gray,10,Female,new,approved,2020-09-27
+28285,Gisela,98114,Sandals,Puma,black,7,Male,new,approved,
+43966,Riley,98114,Sneakers,Fila,gray,2,Male,new,listed,2020-09-29
+50579,Fae,98114,Sneakers,LeBron,brown,1,Male,new,listed,2020-10-19
+93383,Hubert,98114,Sneakers,New Balance,black,14,Male,new,approved,
+26627,Maira,96958,Sneakers,Adidas,black,8,Female,new,approved,2020-10-29
+6480,Riley,96628,Sneakers,Fila,gray,6,Male,new,approved,2020-09-26
+10232,Bobby,96628,Boots,Johnston & Murphy,yellow,0,Male,new,,2020-09-25
+19002,Era,96628,Sneakers,Reebok,brown,8,Male,used,approved,
+36473,Gaston,96471,Sandals,Testoni,brown,11,Male,new,listed,2020-09-26
+84666,Lesley,96471,Sandals,Converse,gray,12,Male,like new,listed,2020-10-18
+59050,Gaston,96386,Sandals,Testoni,brown,7,Male,like new,,2020-10-16
+23231,Alethea,96067,Sneakers,Nike,black,11,Male,new,approved,2020-10-30
+23561,Hubert,96067,Sneakers,New Balance,brown,13,Male,like new,approved,2020-09-26
+30894,Nickie,96067,Sneakers,Vans,gray,11,Male,new,approved,2020-10-27
+35970,Shad,96067,Boots,Skechers,blue,14,Male,like new,approved,2020-09-28
+37387,Alethea,96067,Sneakers,Nike,brown,9,Male,used,approved,2020-10-11
+54751,Era,96067,Sneakers,Reebok,brown,8,Male,like new,approved,2020-10-16
+6001,Era,95902,Sneakers,Reebok,blue,6,Male,new,approved,2020-10-24
+21350,Era,95652,Sneakers,Reebok,white,10,Male,new,approved,2020-10-02
+27791,Ulysses,95652,Dress,Tommy Hilfiger,brown,6,Male,new,approved,2020-10-27
+32457,Hilde,95652,Sneakers,ASICS,brown,13,Female,new,listed,2020-09-25
+38852,Hubert,95652,Sneakers,New Balance,white,10,Male,new,approved,2020-10-01
+69034,Maira,95652,Sneakers,Adidas,brown,14,Female,used,approved,2020-09-25
+69326,Era,95652,Sneakers,Reebok,gray,2,Male,new,approved,2020-09-27
+75887,Bobby,95254,Boots,Johnston & Murphy,brown,14,Male,new,approved,2020-10-28
+54697,Tomoko,94983,Boots,Under Armour,brown,5,Female,new,approved,2020-10-15
+87455,Gisela,94983,Sandals,Puma,black,13,Male,new,approved,2020-09-25
+18959,Alethea,94187,Sneakers,Nike,blue,9,Male,like new,sold,2020-10-10
+26162,Nickie,94187,Sneakers,Vans,black,14,Male,used,listed,2020-09-26
+45065,Eveline,94187,Dress,Berluti,white,11,Female,new,approved,2020-10-19
+51532,Alethea,94187,Dress,Under Armour,brown,12,Female,like new,approved,2020-10-26
+84168,Era,94187,Sneakers,Reebok,brown,10,Male,used,approved,2020-10-26
+93507,Birgit,94187,Dress,Bostonian,yellow,12,Male,used,sold,2020-09-29
+21533,Eveline,93850,Dress,Berluti,black,7,Female,like new,approved,2020-10-28
+30164,Fae,93850,Sneakers,LeBron,yellow,10,Male,used,approved,2020-09-25
+32069,Nickie,93850,Sneakers,Vans,brown,6,Male,new,approved,2020-09-25
+45053,Alethea,93850,Sneakers,Nike,blue,10,Male,new,approved,2020-10-24
+50478,Nickie,93850,Sneakers,Vans,blue,14,Male,used,,2020-10-01
+82882,Nickie,93850,Sneakers,Vans,gray,3,Male,new,listed,2020-09-26
+31903,Riley,93777,Sneakers,Fila,black,6,Male,used,,2020-10-08
+96429,Gisela,93777,Sandals,Puma,gray,1,Male,new,,2020-09-27
+19242,Eveline,93706,Dress,Berluti,white,2,Female,used,listed,2020-09-29
+35786,Era,93153,Sneakers,Reebok,white,13,Male,used,approved,2020-10-13
+11158,Launa,99900,Sneakers,Under Armour,black,14,Male,new,approved,2020-09-26
+1117,Riley,99173,Sneakers,Fila,black,10,Female,like new,listed,2020-10-19
+35809,Era,93153,Sneakers,Reebok,blue,13,Male,like new,sold,2020-10-01
+36345,Maira,93153,Sneakers,Adidas,black,11,Female,new,listed,
+49069,Alethea,93153,Sneakers,Nike,blue,11,Male,new,approved,2020-09-27
+75600,Gisela,93153,Sandals,Puma,brown,1,Male,new,approved,
+87852,Gisela,93153,Sandals,Puma,gray,2,Male,used,approved,2020-09-27
+93545,Lesley,93153,Sandals,Converse,gray,5,Male,used,listed,2020-09-27
+97349,Birgit,93153,Dress,Bostonian,white,5,Female,new,approved,2020-10-04
+19495,Hubert,92916,Sneakers,New Balance,gray,1,Male,new,approved,2020-09-28
+44181,Hubert,92916,Sneakers,New Balance,white,7,Male,like new,approved,
+56008,Gisela,92916,Sandals,Puma,blue,3,Male,new,approved,2020-09-29
+72109,Ulysses,92916,Dress,Tommy Hilfiger,black,11,Male,new,sold,2020-09-26
+77639,Lesley,92916,Sandals,Converse,brown,14,Male,new,approved,2020-09-29
+83324,Eveline,92916,Dress,Berluti,brown,13,Female,new,,2020-09-28
+85621,Eveline,92916,Sneakers,Under Armour,blue,1,Female,used,sold,2020-09-27
+65968,Nickie,92715,Sneakers,Vans,black,14,Male,new,approved,2020-10-18
+46272,Maira,91575,Sneakers,Adidas,black,1,Female,used,listed,
+83924,Nickie,91575,Sneakers,Vans,white,7,Male,new,approved,2020-10-31
+93389,Lesley,91575,Sandals,Converse,brown,2,Male,like new,approved,2020-09-25
+36112,Eveline,90574,Dress,Berluti,gray,1,Female,new,approved,2020-10-30
+52749,Birgit,90574,Dress,Bostonian,brown,2,Male,new,,2020-09-27
+22178,Gaston,90477,Sandals,Testoni,black,14,Male,used,approved,2020-09-28
+83526,Hilde,90259,Sneakers,ASICS,blue,12,Female,new,approved,2020-09-29
+90709,Hubert,90259,Sneakers,New Balance,black,11,Male,like new,listed,
+95555,Era,90141,Sneakers,Reebok,white,12,Male,new,listed,2020-09-29
+41931,Eveline,89770,Dress,Berluti,brown,13,Female,used,approved,2020-10-09
+8216,Riley,88871,Sneakers,Fila,brown,0,Male,used,approved,2020-09-29
+60825,Nickie,88871,Sneakers,Vans,brown,9,Male,like new,,2020-09-29
+21932,Bobby,88769,Boots,Johnston & Murphy,black,1,Male,new,listed,2020-10-22
+36750,Alethea,88769,Sneakers,Nike,brown,13,Male,new,sold,2020-09-25
+53073,Lesley,88769,Sandals,Converse,gray,6,Male,new,approved,
+79432,Bobby,88769,Boots,Johnston & Murphy,yellow,9,Male,new,approved,2020-09-29
+15238,Maira,88362,Sneakers,Adidas,yellow,0,Female,like new,listed,
+33536,Era,87739,Sneakers,Reebok,blue,7,Male,used,approved,2020-10-14
+67273,Hilde,87739,Sneakers,ASICS,blue,9,Female,used,approved,2020-09-27
+75661,Alethea,87739,Sneakers,Nike,brown,14,Male,like new,,2020-10-01
+85814,Eveline,87739,Dress,Berluti,yellow,2,Female,used,approved,2020-10-21
+99996,Rowena,87476,Sandals,Under Armour,white,5,Female,new,approved,2020-10-15
+55648,Eveline,87144,Dress,Berluti,yellow,13,Female,new,approved,
+25054,Eveline,86826,Dress,Berluti,brown,9,Female,like new,,2020-10-30
+58559,Gaston,86742,Sandals,Testoni,white,7,Male,like new,approved,2020-09-28
+27082,Gaston,86052,Sandals,Testoni,black,10,Male,used,listed,2020-10-13
+70100,Gaye,86052,Dress,Under Armour,white,5,Female,new,approved,2020-09-27
+16992,Fae,85824,Sneakers,LeBron,brown,13,Male,used,approved,2020-10-04
+47756,Ulysses,85824,Dress,Tommy Hilfiger,white,14,Male,new,approved,2020-09-29
+74563,Nickie,85824,Sneakers,Vans,black,9,Male,like new,approved,2020-10-25
+63418,Alethea,85767,Sneakers,Nike,brown,8,Male,new,approved,
+70065,Nickie,85767,Sneakers,Vans,white,14,Male,new,sold,2020-10-21
+79567,Eveline,85767,Dress,Berluti,white,14,Female,new,,2020-10-14
+13868,Era,85536,Sneakers,Reebok,brown,4,Male,new,,2020-10-22
+61266,Gaston,85492,Sandals,Testoni,white,4,Male,new,approved,2020-10-28
+61456,Fae,85388,Sneakers,LeBron,brown,6,Male,like new,approved,2020-09-27
+66137,Fae,85388,Sneakers,LeBron,gray,14,Male,like new,approved,2020-10-10
+13377,Bobby,85348,Boots,Johnston & Murphy,black,0,Male,new,approved,
+30227,Bobby,85348,Boots,Johnston & Murphy,black,2,Male,new,approved,2020-09-28
+35787,Hubert,85348,Sandals,Under Armour,black,4,Female,like new,,2020-09-25
+61467,Maira,85348,Sneakers,Adidas,brown,2,Female,like new,approved,
+67949,Era,85348,Sneakers,Reebok,blue,8,Male,new,approved,2020-10-03
+71744,Maira,85348,Sneakers,Adidas,black,2,Female,like new,listed,2020-09-26
+8193,Era,85188,Sneakers,Reebok,brown,11,Male,like new,approved,2020-10-13
+34807,Launa,85188,Sneakers,Jordan,white,3,Male,used,listed,2020-09-27
+56222,Lesley,85188,Sandals,Converse,white,14,Male,used,approved,2020-09-27
+60029,Shad,85188,Boots,Skechers,black,11,Male,new,listed,2020-10-14
+14398,Gaston,84840,Sandals,Testoni,blue,1,Male,like new,approved,2020-10-29
+84831,Launa,84840,Sneakers,Jordan,brown,8,Male,like new,approved,2020-10-27
+82593,Lesley,83478,Sandals,Converse,black,14,Male,new,approved,2020-09-29
+82812,Riley,83478,Sandals,Under Armour,black,10,Female,used,approved,2020-10-04
+16986,Nickie,83396,Sneakers,Vans,gray,9,Male,new,approved,2020-10-04
+54413,Era,83396,Sneakers,Reebok,black,14,Male,new,approved,2020-09-27
+30552,Birgit,83287,Dress,Bostonian,blue,0,Male,new,listed,
+58694,Hubert,83287,Sneakers,New Balance,brown,7,Male,used,approved,2020-09-29
+78504,Alethea,83287,Sneakers,Nike,brown,6,Male,like new,approved,2020-09-28
+92327,Nickie,83287,Sneakers,Vans,brown,2,Male,like new,approved,2020-10-22
+94404,Era,83287,Sneakers,Reebok,gray,7,Male,new,approved,2020-10-27
+42541,Gisela,83209,Sandals,Puma,brown,10,Male,new,listed,2020-09-25
+64380,Eveline,83209,Dress,Berluti,black,12,Female,like new,listed,2020-09-29
+97488,Nickie,83209,Sneakers,Vans,black,11,Male,like new,approved,2020-10-04
+34471,Ulysses,83096,Dress,Tommy Hilfiger,brown,12,Male,new,approved,2020-09-27
+39134,Nickie,83096,Sneakers,Vans,black,7,Male,used,approved,
+39683,Gaston,83096,Sandals,Testoni,yellow,0,Male,used,approved,2020-10-07
+69491,Era,83096,Sneakers,Reebok,gray,10,Male,new,listed,
+78203,Eveline,83096,Dress,Berluti,white,1,Female,used,listed,2020-09-29
+15005,Eveline,92916,Dress,Berluti,brown,9,Male,new,approved,2020-09-28
+12752,Maira,92654,Sneakers,Adidas,gray,8,Male,new,approved,2020-10-22
+92035,Shad,83096,Boots,Skechers,black,14,Male,new,listed,
+32444,Maira,81731,Sneakers,Adidas,brown,2,Female,used,,2020-09-27
+51608,Launa,81731,Sneakers,Jordan,blue,13,Male,new,approved,2020-09-26
+91487,Maira,81731,Sneakers,Adidas,blue,7,Female,new,approved,2020-09-27
+95615,Eveline,81731,Dress,Berluti,yellow,6,Female,like new,approved,2020-09-29
+42557,Eveline,81719,Dress,Berluti,brown,13,Female,new,approved,2020-10-20
+70313,Hubert,81719,Sneakers,New Balance,blue,0,Male,new,,2020-09-28
+58314,Alethea,81510,Sneakers,Nike,black,6,Male,used,approved,2020-09-26
+54645,Era,80876,Sneakers,Reebok,yellow,14,Male,new,approved,2020-09-29
+92768,Lesley,80876,Sandals,Converse,blue,6,Male,new,,2020-10-22
+17950,Shad,80753,Boots,Skechers,yellow,11,Male,used,sold,2020-10-14
+36349,Eveline,80753,Dress,Berluti,blue,14,Female,new,approved,2020-09-27
+64988,Fae,80753,Sneakers,LeBron,blue,2,Male,new,listed,2020-10-27
+98925,Bobby,80753,Boots,Johnston & Murphy,brown,1,Male,new,listed,2020-09-27
+5290,Hubert,80527,Sneakers,New Balance,brown,8,Male,new,approved,2020-09-26
+61421,Era,80527,Sneakers,Reebok,black,10,Male,new,approved,2020-09-27
+62367,Alethea,80527,Sneakers,Nike,brown,11,Male,new,,2020-10-21
+76760,Nickie,80527,Sneakers,Vans,yellow,4,Male,like new,approved,2020-10-21
+69950,Maira,80424,Sneakers,Adidas,black,5,Female,used,listed,2020-09-29
+23595,Bobby,80288,Boots,Johnston & Murphy,blue,4,Male,used,approved,2020-10-11
+39337,Lesley,80288,Sandals,Converse,brown,6,Male,new,approved,2020-10-26
+8461,Launa,80164,Sneakers,Jordan,black,0,Male,like new,approved,2020-10-26
+17876,Era,80164,Sneakers,Reebok,yellow,2,Male,new,approved,2020-09-29
+74848,Eveline,80164,Dress,Berluti,brown,14,Female,like new,approved,2020-10-19
+90185,Fae,80164,Sneakers,LeBron,brown,14,Male,like new,approved,2020-10-11
+94799,Alethea,80164,Sneakers,Nike,black,6,Male,used,approved,2020-09-26
+15671,Maira,78897,Sneakers,Adidas,brown,4,Female,used,approved,2020-10-15
+65267,Bobby,78897,Boots,Johnston & Murphy,gray,8,Male,used,approved,2020-10-28
+89008,Bobby,78897,Boots,Johnston & Murphy,brown,14,Male,new,approved,2020-10-07
+11340,Ulysses,78370,Dress,Tommy Hilfiger,gray,10,Male,new,approved,2020-10-08
+12093,Ulysses,78370,Dress,Tommy Hilfiger,black,9,Male,new,,
+38452,Maira,78370,Sneakers,Adidas,yellow,2,Female,new,approved,2020-09-28
+51086,Bobby,78370,Boots,Johnston & Murphy,white,5,Male,like new,approved,2020-09-26
+55732,Nickie,78370,Sneakers,Vans,brown,0,Male,used,approved,2020-10-29
+56187,Nickie,78370,Sneakers,Vans,black,7,Male,used,approved,2020-10-21
+97528,Alethea,78370,Sneakers,Nike,black,14,Male,new,listed,
+42310,Alethea,77521,Sneakers,Nike,black,5,Male,new,approved,2020-10-26
+44273,Nickie,76459,Sneakers,Vans,gray,12,Male,used,approved,
+75083,Birgit,76459,Dress,Bostonian,blue,0,Male,like new,listed,2020-10-08
+82981,Lesley,76459,Sandals,Converse,gray,10,Male,used,listed,2020-10-19
+87646,Maira,76459,Sneakers,Adidas,black,13,Female,used,,2020-10-24
+4655,Hubert,76394,Sneakers,New Balance,brown,0,Male,like new,listed,2020-09-29
+7976,Hubert,76394,Sneakers,New Balance,gray,11,Male,new,listed,
+23968,Hubert,76394,Sneakers,New Balance,black,11,Male,like new,listed,2020-09-26
+34513,Eveline,76394,Dress,Berluti,brown,11,Female,new,,
+51414,Hubert,76394,Sneakers,New Balance,brown,6,Male,new,sold,2020-09-27
+52086,Launa,76394,Sneakers,Jordan,gray,1,Male,used,listed,2020-10-14
+93508,Alethea,76394,Sneakers,Under Armour,black,4,Female,like new,approved,2020-10-25
+33251,Nickie,76339,Sneakers,Vans,black,13,Male,used,approved,2020-09-28
+46493,Nickie,76339,Sneakers,Vans,yellow,3,Male,like new,sold,2020-10-06
+51057,Fae,76339,Sneakers,LeBron,black,3,Male,new,approved,
+75095,Era,76339,Sneakers,Reebok,black,14,Male,used,approved,2020-09-28
+77673,Gisela,76339,Sandals,Puma,yellow,3,Male,like new,approved,2020-09-25
+82581,Nickie,76339,Sneakers,Vans,blue,1,Male,new,sold,
+87434,Alethea,76339,Sneakers,Nike,black,12,Male,used,approved,2020-10-22
+88751,Alethea,76339,Sneakers,Nike,black,9,Male,like new,,2020-09-28
+92977,Eveline,76339,Dress,Berluti,black,11,Female,new,approved,
+97949,Alethea,76339,Sneakers,Nike,blue,13,Male,new,listed,2020-10-13
+50233,Birgit,76189,Dress,Bostonian,black,13,Male,new,listed,
+52120,Eveline,76189,Dress,Berluti,black,8,Female,new,approved,
+40983,Bobby,75904,Boots,Johnston & Murphy,gray,2,Male,used,approved,
+42959,Gaston,75904,Sandals,Testoni,blue,5,Male,new,approved,
+87075,Eveline,75904,Dress,Berluti,gray,3,Female,new,approved,2020-10-05
+91296,Gisela,75904,Sandals,Puma,black,9,Male,new,approved,
+71219,Alethea,74369,Sneakers,Nike,yellow,10,Male,new,,2020-10-17
+80620,Gaston,74369,Sandals,Testoni,white,14,Male,new,approved,
+86869,Shad,74369,Boots,Skechers,brown,0,Male,new,approved,
+51001,Eveline,74093,Dress,Berluti,gray,11,Female,used,sold,2020-10-23
+59572,Bobby,74000,Boots,Johnston & Murphy,white,10,Male,used,sold,2020-09-27
+61083,Maira,74000,Sneakers,Adidas,yellow,7,Female,like new,,2020-10-01
+89065,Launa,74000,Sneakers,Jordan,brown,12,Male,like new,approved,2020-10-31
+61199,Bobby,73793,Boots,Johnston & Murphy,yellow,2,Male,used,approved,2020-10-23
+62201,Hubert,73793,Sneakers,New Balance,black,13,Male,used,listed,2020-10-01
+33183,Nickie,72995,Sneakers,Vans,yellow,5,Male,new,approved,2020-09-29
+88558,Maira,72995,Sneakers,Adidas,brown,12,Female,new,approved,2020-09-28
+39752,Gaston,72897,Sandals,Testoni,black,9,Male,new,approved,2020-10-06
+50902,Gisela,72897,Sandals,Puma,brown,8,Male,new,,2020-10-23
+15129,Gaston,72743,Sandals,Testoni,gray,11,Male,like new,approved,2020-10-03
+21690,Alethea,72743,Sneakers,Nike,white,1,Male,new,approved,2020-09-28
+26777,Era,72743,Sneakers,Reebok,brown,14,Male,new,listed,2020-10-23
+53449,Alethea,72743,Sneakers,Nike,blue,12,Male,like new,approved,2020-09-29
+62022,Eveline,72743,Dress,Berluti,gray,8,Female,used,listed,
+12309,Maira,77521,Sneakers,Adidas,brown,12,Male,new,,2020-10-16
+1362,Gaston,75904,Sandals,Testoni,yellow,12,Male,like new,,2020-10-25
+65887,Bobby,72743,Boots,Johnston & Murphy,blue,0,Male,new,approved,2020-09-28
+72336,Riley,72743,Sneakers,Fila,blue,9,Male,like new,approved,2020-10-02
+99527,Fae,72743,Sneakers,LeBron,brown,4,Male,new,approved,2020-10-13
+23606,Bobby,72697,Boots,Johnston & Murphy,blue,12,Male,used,,2020-10-13
+68426,Birgit,72697,Dress,Bostonian,blue,1,Male,new,approved,
+82714,Alethea,72697,Sneakers,Nike,blue,7,Male,new,approved,2020-09-29
+66402,Alethea,72185,Sneakers,Nike,brown,2,Male,new,approved,
+15152,Alethea,71923,Sneakers,Nike,white,8,Male,like new,approved,2020-10-15
+39900,Lesley,71923,Sandals,Converse,black,11,Male,new,listed,2020-09-26
+48593,Hubert,71923,Sandals,Under Armour,gray,8,Female,used,listed,2020-09-28
+11994,Bobby,71508,Boots,Johnston & Murphy,brown,4,Male,new,listed,2020-10-07
+14303,Lesley,71508,Sandals,Converse,brown,14,Male,used,approved,2020-10-09
+23565,Bobby,71508,Boots,Johnston & Murphy,blue,11,Male,new,,2020-10-08
+34710,Maira,71508,Sneakers,Adidas,blue,5,Female,used,,2020-09-28
+91297,Fae,71508,Sneakers,LeBron,yellow,7,Male,used,approved,2020-09-26
+24552,Fae,71409,Sneakers,LeBron,black,2,Male,new,approved,2020-10-10
+30155,Alethea,71070,Sneakers,Nike,blue,8,Male,new,approved,2020-09-27
+48140,Maira,71070,Sneakers,Adidas,brown,5,Female,new,,2020-10-31
+12045,Fae,70967,Sneakers,LeBron,blue,0,Male,new,approved,
+39298,Maira,70967,Sneakers,Adidas,yellow,2,Female,new,approved,2020-10-04
+71841,Eveline,70276,Dress,Berluti,brown,6,Female,new,approved,
+74116,Gaston,70276,Sandals,Testoni,brown,0,Male,like new,listed,2020-10-03
+78917,Bobby,70276,Boots,Johnston & Murphy,white,9,Male,like new,listed,2020-10-22
+92970,Lesley,70276,Sandals,Converse,brown,12,Male,new,approved,2020-10-04
+11038,Fae,70139,Sneakers,LeBron,black,6,Male,new,approved,2020-10-13
+34053,Nickie,70139,Sneakers,Vans,brown,2,Male,like new,approved,2020-10-25
+82158,Hubert,70139,Sneakers,New Balance,brown,0,Male,used,listed,2020-09-25
+86758,Hubert,69761,Sneakers,New Balance,white,3,Male,new,approved,2020-10-06
+5918,Hubert,69317,Sneakers,New Balance,white,14,Male,used,approved,
+14566,Riley,69317,Sneakers,Fila,brown,1,Male,new,,2020-09-29
+73601,Launa,69317,Sneakers,Jordan,gray,12,Male,used,listed,2020-09-25
+10499,Era,69088,Sneakers,Reebok,brown,14,Male,new,,
+82994,Shad,69088,Boots,Skechers,yellow,3,Male,new,approved,2020-09-29
+54693,Hubert,67837,Sneakers,New Balance,gray,6,Male,like new,approved,2020-09-29
+20231,Birgit,67463,Dress,Bostonian,gray,4,Male,new,,2020-09-29
+71436,Maira,67463,Sneakers,Adidas,yellow,8,Female,new,approved,2020-09-28
+74484,Alethea,67463,Sneakers,Nike,yellow,6,Male,new,listed,2020-10-23
+81397,Eveline,67463,Dress,Berluti,black,2,Female,new,listed,2020-10-17
+87410,Fae,67463,Sandals,Under Armour,brown,11,Female,used,sold,2020-10-24
+94058,Hubert,67463,Sneakers,New Balance,white,0,Male,new,approved,2020-09-27
+39075,Gaston,67392,Sandals,Testoni,yellow,0,Male,new,approved,2020-09-25
+80129,Ulysses,67392,Dress,Tommy Hilfiger,white,13,Male,new,approved,2020-10-03
+81342,Nickie,67392,Sneakers,Vans,brown,4,Male,new,approved,2020-10-17
+28704,Hubert,67229,Sneakers,New Balance,yellow,10,Male,like new,approved,2020-10-31
+73797,Riley,67229,Sneakers,Fila,black,10,Male,new,approved,2020-10-31
+18265,Maira,67154,Sneakers,Adidas,gray,7,Female,like new,,2020-10-01
+69620,Birgit,67154,Dress,Bostonian,brown,0,Male,used,,2020-09-28
+64341,Eveline,66912,Dress,Berluti,black,12,Female,used,,
+4644,Ulysses,66149,Dress,Tommy Hilfiger,brown,11,Male,used,approved,2020-10-30
+33950,Eveline,66149,Dress,Berluti,gray,10,Female,used,approved,2020-09-29
+48212,Nickie,66149,Sneakers,Vans,yellow,10,Male,used,approved,2020-09-28
+47187,Launa,65888,Sneakers,Jordan,brown,4,Male,new,approved,2020-10-31
+12361,Era,65637,Sneakers,Reebok,white,9,Male,new,approved,
+25504,Bobby,65637,Boots,Johnston & Murphy,blue,12,Male,like new,approved,
+27209,Nickie,65637,Sneakers,Vans,white,5,Male,new,approved,2020-09-28
+38418,Ulysses,65637,Dress,Tommy Hilfiger,brown,1,Male,new,sold,
+39267,Maira,65637,Sneakers,Adidas,white,4,Female,new,approved,2020-10-12
+51186,Ulysses,65637,Dress,Tommy Hilfiger,brown,3,Male,new,listed,2020-10-01
+62345,Alethea,65637,Sneakers,Nike,brown,2,Male,like new,listed,2020-10-21
+76788,Hubert,65637,Sneakers,New Balance,gray,14,Male,new,listed,2020-10-17
+94929,Eveline,65637,Dress,Berluti,black,1,Female,used,approved,
+19102,Bobby,65175,Boots,Johnston & Murphy,gray,3,Male,used,approved,2020-10-04
+37028,Era,65175,Sneakers,Reebok,black,1,Male,like new,approved,2020-10-10
+69029,Nickie,65175,Sneakers,Vans,blue,11,Male,used,listed,2020-10-04
+2172,Gisela,65071,Sandals,Puma,yellow,3,Male,like new,,2020-09-26
+16645,Ulysses,65071,Dress,Tommy Hilfiger,brown,14,Male,like new,approved,2020-09-29
+4473,Birgit,64569,Dress,Bostonian,blue,2,Male,like new,approved,2020-10-26
+65679,Fae,64569,Sneakers,LeBron,black,12,Male,new,sold,2020-10-29
+17304,Lesley,63624,Sandals,Converse,blue,1,Male,new,approved,2020-10-06
+54470,Tomoko,63624,Boots,Under Armour,black,3,Female,new,approved,2020-09-27
+88647,Eveline,63624,Dress,Berluti,black,5,Female,used,,2020-09-28
+46220,Eveline,63553,Dress,Berluti,gray,9,Female,new,approved,2020-09-29
+53963,Bobby,62249,Boots,Johnston & Murphy,yellow,14,Male,new,approved,2020-10-08
+58195,Fae,62249,Sneakers,LeBron,blue,0,Male,used,approved,2020-10-06
+96984,Nickie,62249,Sneakers,Vans,black,4,Male,used,,2020-10-07
+9584,Era,61789,Sneakers,Reebok,white,4,Male,used,approved,2020-10-22
+9952,Alethea,61789,Sneakers,Nike,gray,9,Male,new,approved,2020-09-28
+72384,Birgit,61789,Dress,Bostonian,yellow,0,Male,used,listed,2020-09-27
+18205,Nickie,61663,Sneakers,Vans,black,6,Male,new,listed,
+23642,Maira,61663,Sneakers,Adidas,gray,9,Female,new,approved,2020-09-25
+10575,Maira,65468,Sneakers,Adidas,blue,14,Male,new,approved,2020-09-25
+10298,Maira,63624,Sneakers,Adidas,brown,2,Male,new,approved,2020-10-18
+49718,Fae,61663,Sneakers,LeBron,brown,14,Male,new,listed,2020-09-28
+42646,Birgit,61107,Dress,Bostonian,blue,10,Male,like new,approved,
+67747,Alethea,61107,Sneakers,Nike,yellow,6,Male,like new,listed,2020-10-05
+15821,Maira,60810,Sneakers,Adidas,yellow,0,Female,used,approved,
+74549,Nickie,60810,Sneakers,Vans,brown,6,Male,new,approved,2020-09-27
+84082,Era,60810,Sneakers,Reebok,black,9,Male,new,approved,2020-09-29
+66749,Maira,60531,Sneakers,Adidas,yellow,2,Female,like new,approved,2020-10-02
+5413,Nickie,58937,Sneakers,Vans,white,4,Male,new,approved,2020-10-08
+11519,Alethea,58937,Sneakers,Nike,black,6,Male,used,approved,2020-09-28
+44962,Era,58937,Sneakers,Reebok,brown,14,Male,new,approved,
+60317,Nickie,58937,Sneakers,Vans,black,8,Male,new,,2020-10-09
+78116,Bobby,58937,Boots,Johnston & Murphy,brown,13,Male,like new,listed,2020-10-13
+99646,Era,58937,Sneakers,Reebok,brown,5,Male,new,listed,2020-10-17
+23122,Fae,58868,Sneakers,LeBron,brown,14,Male,used,approved,2020-09-25
+49583,Gaston,58868,Sandals,Testoni,brown,14,Male,new,approved,2020-10-12
+53086,Lesley,58868,Sandals,Converse,black,5,Male,used,approved,2020-10-30
+55989,Shad,58868,Boots,Skechers,white,13,Male,used,sold,2020-09-29
+73881,Gisela,58868,Sandals,Puma,yellow,2,Male,used,listed,2020-10-10
+93898,Alethea,58868,Sneakers,Nike,brown,13,Male,new,approved,2020-10-13
+28526,Gisela,58685,Sandals,Puma,brown,5,Male,new,approved,2020-09-27
+44008,Mirna,58685,Sneakers,Under Armour,black,7,Female,new,approved,2020-10-26
+83834,Era,58685,Sneakers,Reebok,black,4,Male,like new,approved,2020-10-31
+35063,Era,57729,Sneakers,Reebok,black,14,Male,new,listed,
+61349,Hilde,57729,Sneakers,ASICS,blue,3,Female,used,approved,2020-10-18
+83198,Birgit,57722,Dress,Bostonian,brown,2,Male,like new,approved,2020-10-30
+28871,Gisela,57364,Sandals,Puma,black,0,Male,like new,approved,
+41929,Gisela,57364,Sandals,Puma,gray,14,Male,like new,approved,2020-10-15
+62669,Shad,57364,Boots,Skechers,yellow,7,Male,new,listed,2020-09-25
+77039,Eveline,57364,Dress,Berluti,brown,11,Female,used,listed,2020-09-27
+99560,Fae,57364,Sneakers,LeBron,blue,4,Male,new,approved,
+9685,Hubert,57356,Sneakers,New Balance,yellow,13,Male,used,listed,2020-09-29
+18601,Hubert,57356,Sneakers,New Balance,brown,14,Male,used,approved,
+19967,Nickie,57236,Sneakers,Vans,white,11,Male,new,approved,2020-09-29
+93611,Hubert,57236,Sneakers,New Balance,black,7,Male,like new,approved,2020-10-04
+9206,Shad,57088,Boots,Skechers,yellow,2,Male,used,listed,2020-10-22
+25819,Era,57088,Sneakers,Reebok,yellow,10,Male,new,sold,
+31554,Hubert,57088,Sneakers,New Balance,yellow,3,Male,new,approved,2020-10-05
+42146,Gaston,57088,Sandals,Testoni,blue,5,Male,used,listed,
+51453,Alethea,57074,Sneakers,Nike,black,6,Male,like new,listed,2020-10-15
+81398,Gaston,57074,Sandals,Testoni,gray,10,Male,like new,listed,2020-10-21
+97369,Alethea,57074,Sneakers,Nike,yellow,4,Male,used,approved,2020-10-01
+13586,Gisela,57030,Sandals,Puma,gray,8,Male,new,approved,2020-10-02
+2159,Birgit,56612,Dress,Bostonian,brown,3,Male,new,,2020-10-13
+2267,Alethea,56612,Sneakers,Nike,black,11,Male,like new,listed,
+28424,Eveline,56363,Dress,Berluti,gray,1,Female,like new,,2020-10-07
+20255,Launa,56260,Sneakers,Jordan,blue,6,Male,new,,2020-10-25
+60503,Hilde,56260,Sneakers,ASICS,brown,10,Female,like new,listed,2020-10-15
+62936,Era,56260,Sneakers,Reebok,black,14,Male,like new,listed,2020-09-28
+93712,Riley,56260,Sneakers,Fila,white,7,Male,used,listed,
+99838,Gisela,56260,Sandals,Puma,black,7,Male,used,listed,2020-09-25
+16637,Hubert,56104,Sneakers,New Balance,black,11,Male,new,approved,2020-09-26
+43349,Gaston,56104,Sandals,Testoni,black,10,Male,used,,2020-10-25
+67239,Riley,56104,Sneakers,Fila,gray,14,Male,new,listed,2020-10-02
+87520,Gaston,56104,Sandals,Testoni,brown,0,Male,new,approved,2020-09-29
+96827,Eveline,56104,Dress,Berluti,black,4,Female,like new,approved,2020-10-01
+59346,Riley,55927,Sneakers,Fila,brown,11,Male,new,approved,2020-10-18
+99540,Bobby,55927,Boots,Johnston & Murphy,blue,5,Male,new,,2020-10-10
+4306,Shad,55759,Boots,Skechers,black,2,Male,like new,listed,2020-09-29
+18082,Maira,55759,Sneakers,Adidas,gray,1,Female,new,listed,2020-09-28
+44032,Ulysses,55759,Dress,Tommy Hilfiger,brown,7,Male,new,approved,
+76422,Nickie,55759,Sneakers,Vans,gray,12,Male,used,listed,2020-09-26
+81210,Eveline,55759,Dress,Berluti,gray,14,Female,new,,2020-09-29
+89283,Riley,55759,Sneakers,Fila,brown,2,Male,new,approved,2020-10-27
+96508,Gaston,55759,Sandals,Testoni,white,7,Male,new,approved,2020-10-16
+96532,Hilde,55759,Sneakers,ASICS,black,8,Female,new,approved,2020-09-28
+68266,Bobby,55244,Boots,Johnston & Murphy,blue,1,Male,like new,,2020-09-29
+38269,Bobby,54988,Boots,Johnston & Murphy,yellow,11,Male,used,,2020-09-25
+57801,Era,54988,Sneakers,Reebok,yellow,4,Male,new,,2020-09-29
+71580,Nickie,54988,Sneakers,Vans,black,1,Male,new,approved,2020-09-27
+86480,Maira,54988,Sneakers,Adidas,yellow,9,Female,new,approved,2020-09-26
+7962,Gisela,54650,Sandals,Puma,yellow,9,Male,new,approved,2020-10-29
+27866,Bobby,54650,Boots,Johnston & Murphy,yellow,12,Male,like new,approved,2020-09-28
+41137,Eveline,54650,Dress,Berluti,yellow,8,Female,used,listed,2020-09-28
+78068,Alethea,54650,Sneakers,Nike,brown,12,Male,new,approved,2020-09-26
+2327,Era,54325,Sneakers,Reebok,yellow,14,Male,used,approved,2020-10-21
+15849,Hubert,53783,Sneakers,New Balance,brown,7,Male,used,approved,2020-10-31
+16969,Eveline,53783,Dress,Berluti,black,9,Female,new,approved,2020-09-26
+19327,Shad,53783,Boots,Skechers,yellow,7,Male,new,approved,2020-09-29
+43358,Era,53783,Sneakers,Reebok,black,14,Male,new,listed,2020-10-24
+44046,Birgit,53783,Dress,Bostonian,brown,11,Female,new,listed,2020-09-28
+790,Gaston,60810,Sandals,Testoni,blue,9,Female,new,approved,2020-10-29
+6119,Maira,57364,Sneakers,Adidas,black,13,Male,like new,,2020-09-27
+1303,Era,58937,Sneakers,Reebok,black,7,Male,new,listed,2020-10-04
+71164,Era,53783,Sneakers,Reebok,yellow,12,Male,used,approved,2020-10-01
+74409,Maira,53783,Sneakers,Adidas,black,6,Female,new,approved,2020-10-21
+78214,Bobby,53783,Boots,Johnston & Murphy,brown,8,Male,used,approved,
+79655,Bobby,53783,Boots,Johnston & Murphy,black,3,Male,used,sold,2020-09-26
+93200,Gisela,53783,Sandals,Puma,black,5,Male,new,listed,2020-10-26
+94988,Eveline,53783,Dress,Berluti,brown,8,Female,new,approved,2020-10-24
+48048,Hilde,53441,Sneakers,ASICS,black,1,Female,new,approved,2020-09-27
+19555,Riley,53422,Sneakers,Fila,white,13,Male,like new,approved,2020-10-02
+65277,Nickie,53422,Sneakers,Vans,yellow,3,Male,like new,approved,2020-10-04
+12658,Nickie,53034,Sneakers,Vans,black,9,Male,new,approved,2020-10-04
+36006,Era,53034,Sneakers,Reebok,brown,5,Male,new,approved,2020-10-15
+41838,Alethea,52995,Sneakers,Nike,gray,2,Male,new,approved,
+80812,Era,52995,Sneakers,Reebok,gray,6,Male,used,,2020-09-29
+97127,Eveline,52235,Dress,Berluti,yellow,14,Female,new,listed,2020-09-28
+31638,Bobby,51881,Boots,Johnston & Murphy,brown,12,Male,new,approved,2020-10-04
+80686,Bobby,51881,Boots,Johnston & Murphy,black,3,Male,new,,2020-09-25
+25901,Maira,51799,Sneakers,Adidas,brown,1,Female,new,approved,2020-09-28
+45678,Hilde,51799,Sneakers,ASICS,black,2,Female,new,listed,
+48198,Bobby,51799,Boots,Johnston & Murphy,black,8,Male,like new,listed,2020-09-26
+78639,Alethea,51799,Sneakers,Nike,black,8,Male,like new,approved,2020-09-27
+86287,Launa,51799,Sneakers,Jordan,white,11,Male,like new,approved,2020-09-29
+25969,Hubert,51438,Sneakers,New Balance,black,0,Male,used,approved,2020-09-29
+30646,Ione,51438,Sneakers,Under Armour,gray,12,Female,like new,approved,2020-09-28
+35018,Maira,51438,Sneakers,Adidas,white,4,Female,like new,approved,2020-10-24
+70728,Eveline,51438,Dress,Berluti,yellow,14,Female,used,approved,2020-10-30
+71962,Alethea,51438,Sneakers,Nike,yellow,11,Male,like new,listed,2020-09-28
+75140,Riley,51438,Sneakers,Fila,yellow,13,Male,like new,approved,2020-09-26
+19529,Riley,50524,Sneakers,Fila,yellow,1,Male,new,approved,2020-09-29
+42898,Eveline,50524,Dress,Berluti,black,2,Female,new,,2020-10-18
+51711,Nickie,50524,Sneakers,Vans,black,4,Male,new,approved,2020-09-26
+65591,Ulysses,50524,Dress,Tommy Hilfiger,yellow,7,Male,like new,approved,2020-10-31
+81188,Gisela,50524,Sandals,Puma,brown,14,Male,like new,listed,2020-09-25
+18998,Bobbie,49421,Sneakers,Under Armour,gray,5,Female,new,listed,2020-09-25
+19835,Eveline,49421,Dress,Berluti,black,3,Female,used,approved,2020-10-29
+42659,Lesley,49421,Sandals,Converse,brown,2,Male,new,listed,
+71510,Gisela,49421,Sandals,Puma,white,0,Male,new,listed,2020-10-02
+73927,Launa,49421,Sneakers,Jordan,gray,10,Male,like new,listed,2020-10-24
+5136,Hubert,49231,Sneakers,New Balance,brown,1,Male,used,approved,2020-10-31
+19795,Alethea,49231,Sneakers,Nike,gray,2,Male,new,listed,2020-10-19
+25676,Maira,49231,Sneakers,Adidas,blue,11,Female,like new,approved,
+41966,Gaston,49231,Sandals,Testoni,black,8,Male,like new,approved,2020-10-21
+78708,Eveline,49231,Dress,Berluti,white,9,Female,like new,approved,
+9044,Bobby,48549,Boots,Johnston & Murphy,gray,9,Male,used,approved,2020-10-22
+54468,Shad,48549,Boots,Skechers,white,13,Male,new,listed,2020-09-27
+30423,Eveline,48276,Dress,Berluti,white,0,Female,used,approved,2020-10-09
+53520,Eveline,48276,Dress,Berluti,white,2,Female,like new,,2020-10-30
+20736,Era,47714,Sneakers,Reebok,white,6,Male,used,approved,2020-10-04
+41916,Bobby,47339,Boots,Johnston & Murphy,white,1,Male,new,approved,2020-10-12
+60890,Hilde,47339,Sneakers,ASICS,black,14,Female,new,,2020-09-28
+25637,Bobby,47183,Boots,Johnston & Murphy,brown,8,Male,used,listed,2020-09-26
+44106,Birgit,47183,Dress,Bostonian,yellow,2,Male,used,approved,2020-10-27
+73065,Maira,47183,Sneakers,Adidas,blue,3,Female,new,listed,2020-09-25
+86730,Lesley,47183,Sandals,Converse,yellow,12,Male,like new,listed,
+95433,Bobby,46062,Boots,Johnston & Murphy,gray,1,Male,like new,,2020-10-13
+6461,Nickie,45669,Sneakers,Vans,gray,6,Male,new,,2020-09-27
+80638,Fae,45669,Sneakers,LeBron,black,5,Male,new,approved,2020-10-02
+20766,Hilde,45419,Sneakers,ASICS,gray,1,Female,like new,,2020-09-27
+38979,Ulysses,45419,Dress,Tommy Hilfiger,brown,11,Male,used,approved,2020-09-27
+64374,Alethea,45419,Sneakers,Nike,black,3,Male,like new,listed,
+52295,Hubert,45167,Sneakers,New Balance,yellow,8,Male,used,,2020-09-28
+62972,Bobby,45167,Boots,Johnston & Murphy,white,9,Male,used,approved,2020-09-28
+15292,Hilde,45074,Sneakers,ASICS,white,12,Female,new,approved,2020-10-16
+69634,Hubert,45074,Sneakers,New Balance,brown,6,Male,new,approved,2020-09-29
+72932,Hubert,45074,Sneakers,New Balance,yellow,9,Male,like new,approved,2020-09-26
+76445,Maira,45074,Sneakers,Adidas,brown,14,Female,new,approved,2020-09-27
+85359,Alethea,45074,Sneakers,Nike,gray,2,Male,like new,approved,2020-10-28
+80636,Birgit,44576,Dress,Bostonian,black,14,Male,used,listed,2020-09-27
+80965,Lesley,44576,Sandals,Converse,black,13,Male,used,listed,
+63081,Migdalia,44135,Sneakers,Under Armour,brown,2,Female,new,listed,2020-09-28
+38603,Nickie,43710,Sneakers,Vans,white,10,Male,like new,approved,2020-10-05
+65657,Hilde,43710,Sneakers,ASICS,black,1,Female,used,approved,2020-09-27
+73428,Era,43710,Sneakers,Reebok,black,13,Male,new,,2020-10-08
+2057,Launa,42783,Sneakers,Jordan,brown,11,Male,new,approved,
+65814,Shad,42783,Boots,Skechers,black,6,Male,new,listed,2020-10-14
+82518,Eveline,42783,Dress,Berluti,gray,12,Female,used,,2020-09-25
+90498,Eveline,42783,Dress,Berluti,black,7,Female,like new,listed,
+43830,Era,42322,Sneakers,Reebok,black,2,Male,new,approved,2020-09-25
+79713,Alethea,42322,Sneakers,Nike,brown,1,Male,used,approved,2020-09-26
+55532,Lesley,42290,Sandals,Converse,brown,14,Male,used,,2020-09-25
+10063,Birgit,42783,Dress,Bostonian,white,13,Male,used,listed,2020-10-06
+1428,Launa,44584,Sneakers,Jordan,brown,12,Male,new,,
+17631,Bobby,42233,Boots,Johnston & Murphy,blue,1,Male,like new,approved,2020-09-27
+71015,Hilde,42233,Sneakers,ASICS,black,10,Female,used,listed,
+91448,Fae,42233,Sneakers,LeBron,yellow,6,Male,used,approved,2020-10-26
+85887,Lesley,40952,Sandals,Converse,brown,9,Male,new,approved,
+87968,Hubert,40952,Sneakers,New Balance,black,9,Male,new,approved,2020-09-25
+72036,Eveline,39903,Dress,Berluti,black,10,Female,used,approved,2020-09-29
+96393,Era,39903,Sneakers,Reebok,brown,14,Male,like new,approved,2020-09-26
+43385,Era,39899,Sneakers,Reebok,gray,14,Male,new,approved,2020-09-25
+63757,Fae,39899,Sneakers,LeBron,brown,5,Male,like new,approved,
+2281,Nickie,39411,Sneakers,Vans,yellow,7,Male,used,approved,2020-10-08
+23600,Riley,39411,Dress,Under Armour,black,9,Female,new,approved,2020-10-30
+51763,Maira,39411,Sneakers,Adidas,white,3,Female,used,listed,2020-10-09
+20525,Bobby,39397,Boots,Johnston & Murphy,brown,9,Male,like new,approved,2020-09-28
+40538,Lesley,39397,Sandals,Converse,brown,13,Male,new,,2020-09-25
+44270,Alethea,39397,Sneakers,Nike,brown,9,Male,like new,approved,2020-09-26
+2443,Bobby,38833,Boots,Johnston & Murphy,black,7,Male,like new,approved,
+30413,Hilde,38833,Sneakers,ASICS,blue,6,Female,new,,2020-09-27
+2150,Nickie,37576,Sneakers,Vans,blue,1,Male,new,approved,2020-10-19
+13833,Birgit,37576,Dress,Bostonian,yellow,9,Male,like new,approved,
+52830,Fae,37576,Sneakers,LeBron,blue,5,Male,used,sold,
+18266,Bobby,37571,Boots,Johnston & Murphy,black,10,Male,new,listed,
+30706,Gaston,37571,Sandals,Testoni,white,4,Male,new,approved,2020-10-14
+62446,Ulysses,37241,Dress,Tommy Hilfiger,blue,11,Male,new,approved,2020-10-22
+86976,Riley,37182,Sneakers,Fila,blue,9,Male,used,,
+6762,Lesley,36603,Sandals,Converse,yellow,12,Male,like new,,2020-09-26
+62371,Maira,36603,Sneakers,Adidas,brown,10,Female,like new,approved,2020-10-21
+98072,Nickie,36524,Sneakers,Vans,white,14,Male,new,approved,2020-10-06
+46243,Alethea,36322,Sneakers,Nike,black,4,Male,new,listed,2020-10-09
+96565,Bobby,35916,Boots,Johnston & Murphy,gray,14,Male,used,approved,
+56115,Ulysses,35623,Dress,Tommy Hilfiger,gray,10,Male,used,,2020-09-25
+72241,Hubert,35623,Sneakers,New Balance,brown,2,Male,used,approved,
+97728,Nickie,35623,Sneakers,Vans,brown,5,Male,used,approved,2020-09-28
+17836,Bobby,34244,Boots,Johnston & Murphy,yellow,7,Male,new,approved,2020-09-26
+21204,Shad,34244,Boots,Skechers,black,10,Male,new,approved,2020-09-28
+26745,Eveline,34244,Dress,Berluti,brown,8,Female,like new,listed,2020-10-23
+27104,Hubert,34244,Sneakers,New Balance,yellow,1,Male,new,approved,2020-09-27
+66079,Hubert,34244,Sneakers,New Balance,black,8,Male,new,approved,2020-09-25
+70355,Maira,34244,Sneakers,Adidas,yellow,1,Female,new,listed,2020-10-24
+8374,Alethea,34240,Sneakers,Nike,black,13,Male,new,approved,2020-09-25
+34353,Eveline,34240,Dress,Berluti,black,3,Female,new,approved,
+37165,Nickie,34240,Sneakers,Under Armour,blue,0,Female,new,,2020-10-26
+48017,Fae,34240,Sneakers,LeBron,blue,7,Male,new,approved,2020-10-28
+83283,Hilde,34240,Sneakers,ASICS,gray,13,Female,new,,2020-10-12
+6247,Alethea,34152,Sneakers,Nike,brown,6,Male,used,listed,2020-09-27
+26293,Hubert,34152,Sneakers,New Balance,black,2,Male,new,approved,
+79920,Hilde,34152,Sneakers,ASICS,black,12,Female,new,approved,2020-09-29
+20214,Launa,33305,Sneakers,Jordan,blue,0,Male,used,approved,
+43365,Riley,33305,Sneakers,Fila,yellow,8,Male,new,approved,2020-09-26
+45187,Eveline,33305,Dress,Berluti,brown,14,Female,new,approved,2020-09-25
+60462,Migdalia,33305,Sneakers,Under Armour,blue,5,Female,like new,listed,2020-09-29
+64569,Launa,33305,Sneakers,Jordan,brown,14,Male,new,approved,2020-10-02
+78799,Riley,33305,Sneakers,Fila,blue,5,Male,new,listed,2020-10-14
+97187,Gaston,33305,Sandals,Testoni,blue,5,Male,like new,approved,2020-10-10
+9916,Hubert,32346,Sneakers,New Balance,black,8,Male,like new,approved,
+23630,Eveline,32346,Dress,Berluti,brown,1,Female,used,approved,2020-10-05
+36972,Hubert,32346,Sneakers,New Balance,brown,7,Male,new,listed,2020-09-26
+61577,Alethea,32346,Sneakers,Nike,black,9,Male,used,approved,
+3778,Shad,31991,Boots,Skechers,yellow,11,Male,new,approved,2020-10-17
+51919,Era,31991,Sneakers,Reebok,white,6,Male,new,approved,2020-10-24
+98786,Bobby,31991,Boots,Johnston & Murphy,black,14,Male,like new,approved,2020-09-25
+47828,Hubert,31027,Sneakers,New Balance,brown,7,Male,like new,approved,2020-10-18
+54313,Maira,30641,Sneakers,Adidas,brown,0,Female,used,,2020-09-25
+92067,Era,29894,Sneakers,Reebok,blue,2,Male,new,sold,
+38551,Maira,29694,Sneakers,Adidas,black,13,Female,new,listed,2020-10-17
+4445,Nickie,29412,Sneakers,Vans,blue,14,Male,like new,approved,2020-09-25
+21001,Fae,29412,Sneakers,LeBron,brown,9,Male,new,approved,
+68162,Bobby,29412,Boots,Johnston & Murphy,brown,8,Male,used,approved,
+14635,Ulysses,29396,Dress,Tommy Hilfiger,yellow,9,Male,new,approved,2020-10-31
+30938,Launa,29396,Sneakers,Jordan,black,6,Male,like new,approved,2020-10-27
+44987,Gaston,29307,Sandals,Testoni,black,14,Male,new,sold,2020-10-01
+88298,Fae,29307,Sneakers,LeBron,gray,7,Male,new,approved,
+5561,Hubert,29076,Sneakers,New Balance,blue,11,Male,new,listed,2020-09-25
+29086,Hulda,29076,Sandals,Under Armour,brown,8,Female,like new,listed,2020-09-28
+76294,Fae,29076,Sneakers,LeBron,yellow,8,Male,new,approved,2020-10-22
+81257,Bobby,29076,Boots,Johnston & Murphy,black,11,Male,new,listed,2020-09-28
+94848,Riley,29076,Sneakers,Fila,black,13,Male,new,approved,2020-09-27
+47286,Gisela,28609,Sandals,Puma,white,0,Male,new,approved,2020-10-11
+87335,Gaston,28609,Sandals,Testoni,yellow,10,Male,used,listed,2020-09-25
+35998,Alethea,28165,Sneakers,Nike,brown,12,Male,new,approved,
+44120,Marvin,28165,Sandals,Under Armour,black,11,Female,new,approved,
+13023,Hilde,37241,Sneakers,ASICS,brown,12,Male,like new,approved,2020-09-26
+1360,Gisela,29694,Sandals,Puma,white,14,Male,new,approved,2020-09-27
+74141,Bobby,28165,Boots,Johnston & Murphy,yellow,2,Male,used,approved,2020-10-23
+94453,Shad,28165,Boots,Skechers,brown,3,Male,new,approved,2020-10-27
+97601,Alethea,28165,Sneakers,Nike,black,13,Male,new,approved,2020-10-29
+41270,Bobby,27832,Boots,Johnston & Murphy,brown,14,Male,new,approved,2020-10-01
+54155,Nickie,27832,Sneakers,Vans,brown,2,Male,like new,approved,2020-09-25
+54156,Fae,27832,Sneakers,LeBron,gray,9,Male,new,listed,2020-09-27
+63541,Lesley,27832,Sandals,Converse,gray,5,Male,used,listed,2020-09-29
+67561,Riley,27832,Sneakers,Fila,gray,13,Male,new,approved,2020-10-18
+70985,Hubert,27832,Sneakers,New Balance,brown,8,Male,used,listed,2020-10-22
+28185,Era,27238,Sneakers,Reebok,blue,14,Male,new,approved,
+50567,Lesley,27238,Sandals,Converse,white,7,Male,new,,2020-09-27
+62051,Birgit,27238,Dress,Bostonian,black,14,Male,new,approved,
+58567,Hilde,27228,Sneakers,ASICS,blue,14,Female,like new,approved,2020-09-26
+81002,Era,27228,Sneakers,Reebok,black,3,Male,like new,approved,2020-09-25
+5204,Hubert,26801,Sneakers,New Balance,gray,11,Male,new,approved,2020-10-12
+89362,Hubert,26801,Sneakers,New Balance,brown,13,Male,new,listed,2020-09-29
+79156,Hubert,26518,Sneakers,New Balance,brown,14,Male,used,approved,2020-09-27
+29112,Launa,26251,Sneakers,Jordan,gray,5,Male,new,,2020-09-27
+40639,Era,26017,Sneakers,Reebok,blue,14,Male,new,listed,2020-10-02
+71130,Riley,26017,Sneakers,Fila,brown,1,Male,new,approved,2020-09-25
+43099,Maira,25516,Sneakers,Adidas,brown,0,Female,used,approved,2020-09-29
+45212,Riley,25414,Sneakers,Fila,yellow,5,Male,used,approved,2020-10-27
+56162,Nickie,25371,Sneakers,Vans,brown,7,Male,like new,listed,2020-09-27
+84832,Fae,25341,Sneakers,LeBron,brown,12,Male,like new,,2020-10-17
+2351,Hubert,25092,Sneakers,New Balance,white,10,Male,used,,2020-09-28
+46074,Era,25092,Sneakers,Reebok,brown,7,Male,used,approved,
+65890,Launa,25092,Sneakers,Jordan,gray,13,Male,used,approved,
+84564,Alethea,25048,Sneakers,Nike,black,14,Male,used,,
+84816,Birgit,25048,Dress,Bostonian,brown,3,Male,new,approved,2020-09-26
+66756,Era,24738,Sneakers,Reebok,black,3,Male,like new,approved,2020-10-29
+85536,Alethea,24738,Sneakers,Nike,black,6,Male,new,approved,2020-10-17
+50735,Hilde,24599,Sneakers,ASICS,gray,0,Female,new,approved,2020-09-29
+18269,Fae,24052,Sneakers,LeBron,yellow,6,Male,like new,approved,2020-09-27
+49360,Birgit,24052,Dress,Bostonian,black,8,Male,new,approved,
+65931,Gisela,24052,Sandals,Puma,gray,8,Male,used,approved,2020-09-26
+30153,Launa,23590,Sneakers,Jordan,blue,5,Male,new,approved,2020-09-28
+38282,Bobby,23590,Boots,Johnston & Murphy,gray,14,Male,like new,approved,
+97993,Hubert,23590,Sneakers,New Balance,brown,4,Male,used,approved,
+60344,Maira,23476,Sneakers,Adidas,brown,5,Female,like new,approved,2020-09-28
+4466,Era,22474,Sneakers,Reebok,black,12,Male,new,sold,2020-09-26
+48770,Nickie,22474,Sneakers,Vans,blue,14,Male,new,listed,2020-10-24
+64306,Era,22474,Sneakers,Reebok,gray,3,Male,used,approved,2020-09-28
+43836,Bobby,21437,Boots,Johnston & Murphy,gray,5,Male,new,,2020-10-28
+53169,Nickie,21437,Sneakers,Vans,brown,3,Male,new,approved,2020-09-27
+65646,Era,21437,Sneakers,Reebok,white,10,Male,used,approved,
+73995,Era,21437,Sneakers,Reebok,white,3,Male,new,,2020-09-28
+88027,Bobby,21437,Boots,Johnston & Murphy,black,13,Male,new,listed,2020-09-27
+89742,Hubert,21437,Sneakers,New Balance,brown,3,Male,new,listed,2020-09-26
+98325,Shad,21437,Boots,Skechers,brown,10,Male,like new,listed,2020-10-03
+81376,Eveline,20669,Dress,Berluti,white,3,Female,used,approved,2020-09-26
+88220,Alethea,20186,Dress,Under Armour,black,0,Female,new,,2020-09-29
+20778,Gaston,19758,Sandals,Testoni,black,4,Male,used,approved,2020-10-06
+71000,Hubert,19758,Sneakers,New Balance,black,5,Male,new,approved,2020-09-26
+28806,Launa,19353,Sneakers,Jordan,gray,3,Male,new,approved,2020-10-11
+41045,Maira,19353,Sneakers,Adidas,brown,12,Female,like new,listed,
+72064,Eveline,19353,Dress,Berluti,white,14,Female,new,listed,2020-10-30
+76894,Gisela,19353,Sandals,Puma,white,7,Male,new,approved,
+85214,Hilde,19353,Sneakers,ASICS,yellow,14,Female,used,sold,2020-09-29
+33948,Alethea,18918,Sneakers,Nike,white,14,Male,new,approved,2020-09-29
+24618,Eveline,18816,Dress,Berluti,white,1,Female,like new,listed,2020-09-26
+35299,Launa,18816,Sneakers,Jordan,blue,11,Male,new,,2020-09-29
+61260,Era,18816,Sneakers,Reebok,white,3,Male,new,,2020-09-25
+62691,Alethea,18816,Sneakers,Nike,brown,6,Male,used,listed,2020-10-20
+20483,Bobby,18292,Boots,Johnston & Murphy,gray,0,Male,new,approved,2020-10-12
+66843,Gaston,18054,Sandals,Testoni,blue,14,Male,like new,approved,
+3355,Alethea,17652,Sneakers,Nike,black,14,Male,like new,approved,2020-10-23
+9865,Era,17000,Sneakers,Reebok,black,14,Male,like new,approved,2020-09-27
+25764,Nickie,17000,Sneakers,Vans,black,2,Male,new,,2020-10-17
+46746,Hilde,17000,Sneakers,ASICS,yellow,4,Female,new,listed,2020-10-03
+53496,Launa,17000,Sneakers,Jordan,black,8,Male,like new,approved,2020-10-23
+66291,Bobby,17000,Boots,Johnston & Murphy,gray,9,Male,like new,,2020-10-15
+13639,Lesley,16714,Sandals,Converse,brown,4,Male,used,approved,2020-10-01
+55264,Maira,16714,Sneakers,Adidas,yellow,10,Female,like new,listed,2020-09-29
+78310,Fae,16714,Sneakers,LeBron,black,14,Male,used,approved,2020-10-11
+80226,Ulysses,16714,Dress,Tommy Hilfiger,brown,14,Male,like new,,2020-10-21
+98841,Maira,16714,Sneakers,Adidas,yellow,12,Female,new,approved,2020-09-25
+25886,Riley,16548,Sneakers,Fila,black,2,Male,like new,approved,2020-10-02
+69973,Era,16548,Sneakers,Reebok,brown,5,Male,used,approved,2020-10-13
+10533,Gaston,16398,Sandals,Testoni,black,11,Male,new,,2020-09-29
+27189,Alethea,16398,Sneakers,Nike,black,3,Male,used,,2020-09-27
+76574,Birgit,16398,Dress,Bostonian,brown,14,Male,used,approved,2020-09-27
+14173,Maira,25092,Sneakers,Adidas,brown,9,Male,like new,,2020-09-28
+1148,Launa,20669,Sneakers,Jordan,brown,5,Female,new,approved,2020-09-28
+99561,Ulysses,16398,Dress,Tommy Hilfiger,brown,2,Male,new,sold,2020-09-29
+7213,Alethea,16276,Sneakers,Nike,black,14,Male,used,approved,2020-10-16
+12370,Lesley,15921,Sandals,Converse,brown,3,Male,new,approved,2020-10-07
+28380,Gaston,14501,Sandals,Testoni,gray,0,Male,used,approved,2020-10-11
+77766,Bobby,14501,Boots,Johnston & Murphy,brown,8,Male,new,,2020-09-29
+85636,Tomoko,13332,Dress,Under Armour,gray,14,Female,new,,2020-10-29
+91186,Ulysses,12476,Dress,Tommy Hilfiger,brown,8,Male,like new,sold,2020-09-25
+32839,Nickie,12406,Sneakers,Vans,white,2,Male,used,approved,2020-10-24
+57120,Launa,12406,Sneakers,Jordan,black,9,Male,like new,listed,
+16264,Bobby,11622,Boots,Johnston & Murphy,white,14,Male,used,listed,2020-10-05
+53626,Maira,11622,Sneakers,Adidas,blue,3,Female,used,listed,
+67794,Maira,11622,Sneakers,Adidas,white,10,Female,new,listed,
+76884,Alethea,11622,Sneakers,Nike,gray,9,Male,new,listed,2020-10-01
+78449,Eveline,11622,Dress,Berluti,brown,14,Female,like new,listed,2020-09-26
+80188,Bobby,11622,Boots,Johnston & Murphy,gray,8,Male,like new,listed,2020-10-18
+58932,Fae,10950,Sneakers,LeBron,brown,11,Male,used,approved,
+68918,Eveline,10950,Dress,Berluti,yellow,6,Female,new,approved,2020-09-28
+31356,Maira,10643,Sneakers,Adidas,black,5,Female,used,approved,2020-10-11
+58904,Fae,10643,Sneakers,LeBron,brown,10,Male,new,approved,
+72612,Gaston,10643,Sandals,Testoni,black,11,Male,new,approved,2020-10-15
+67104,Gaston,10489,Sandals,Testoni,black,10,Male,used,approved,2020-09-27
+40828,Ulysses,10295,Dress,Under Armour,yellow,12,Female,used,approved,2020-10-18
+49886,Hubert,10295,Sneakers,New Balance,brown,13,Male,like new,listed,
+54704,Shad,10295,Sneakers,Under Armour,white,12,Female,new,sold,2020-10-13
+62417,Eveline,10295,Dress,Berluti,black,12,Female,like new,,2020-09-27
+64907,Nickie,10295,Sneakers,Vans,black,4,Male,like new,listed,2020-09-29
+73871,Bobby,10295,Boots,Johnston & Murphy,yellow,0,Male,new,approved,2020-10-08
+80207,Era,10295,Sneakers,Reebok,brown,2,Male,like new,listed,2020-09-29
+88866,Nickie,10295,Sneakers,Vans,yellow,9,Male,used,approved,2020-10-22
+91524,Bobby,10295,Boots,Johnston & Murphy,black,14,Male,used,,2020-10-17
+44287,Hubert,9825,Sneakers,New Balance,blue,0,Male,like new,,
+64252,Fae,9825,Sneakers,LeBron,yellow,4,Male,new,approved,2020-10-03
+23359,Eveline,9479,Dress,Berluti,brown,11,Female,like new,approved,2020-09-25
+33657,Riley,9479,Sneakers,Fila,white,0,Male,like new,approved,2020-10-22
+52280,Era,9479,Sneakers,Reebok,black,2,Male,new,approved,
+85681,Gisela,9479,Sandals,Puma,white,9,Male,like new,approved,2020-09-25
+39141,Eveline,8873,Dress,Berluti,black,13,Female,new,listed,2020-09-27
+33109,Ulysses,8680,Dress,Tommy Hilfiger,black,5,Male,new,listed,2020-09-27
+27531,Gisela,8443,Sandals,Puma,blue,12,Male,new,sold,2020-09-28
+62197,Alethea,8443,Sneakers,Nike,brown,13,Male,new,listed,2020-10-08
+66578,Shad,8443,Boots,Skechers,brown,14,Male,used,sold,2020-10-06
+7782,Era,7957,Sneakers,Reebok,yellow,14,Male,new,approved,2020-09-27
+54257,Nickie,7957,Sneakers,Vans,gray,4,Male,used,approved,2020-09-28
+79121,Hubert,7957,Sneakers,New Balance,black,12,Male,new,approved,2020-09-28
+86686,Maira,7957,Sneakers,Adidas,white,14,Female,used,approved,2020-09-26
+7935,Fae,7708,Sneakers,LeBron,brown,4,Male,like new,approved,2020-10-10
+13252,Gaston,7708,Sandals,Testoni,black,6,Male,new,listed,2020-10-30
+26452,Alethea,7708,Sneakers,Nike,white,1,Male,new,listed,2020-09-25
+28026,Gaston,7708,Sandals,Testoni,white,0,Male,new,listed,
+56480,Alethea,7708,Sneakers,Nike,gray,5,Male,like new,sold,2020-09-25
+62843,Shad,7708,Boots,Skechers,white,8,Male,used,approved,2020-09-25
+66938,Era,7708,Sneakers,Reebok,brown,7,Male,new,listed,2020-09-27
+68541,Hubert,7708,Sneakers,New Balance,gray,10,Male,new,approved,2020-09-28
+79660,Gaston,7708,Sandals,Testoni,brown,10,Male,used,listed,2020-09-27
+91742,Bobbie,7708,Sneakers,Under Armour,brown,14,Female,new,sold,2020-10-19
+91861,Alethea,7708,Sneakers,Nike,gray,12,Male,used,listed,2020-09-26
+94795,Birgit,7708,Dress,Bostonian,yellow,7,Female,new,listed,2020-09-26
+38861,Launa,7617,Sneakers,Jordan,brown,5,Male,used,approved,2020-09-28
+70989,Birgit,7617,Dress,Bostonian,yellow,8,Female,used,listed,2020-09-26
+73362,Alethea,7617,Sneakers,Nike,white,14,Male,new,approved,
+78057,Eveline,7617,Dress,Berluti,black,3,Female,used,approved,2020-10-28
+51960,Nickie,7210,Sneakers,Vans,white,10,Male,like new,listed,2020-09-28
+62981,Fae,7210,Sneakers,LeBron,black,9,Male,new,approved,2020-09-26
+91907,Launa,7210,Sneakers,Jordan,gray,4,Male,new,approved,2020-09-27
+97154,Bobby,7210,Boots,Johnston & Murphy,black,4,Male,used,listed,2020-10-03
+8419,Gisela,7171,Sandals,Puma,black,5,Male,new,approved,2020-09-29
+76948,Alethea,7171,Sneakers,Nike,brown,14,Male,new,listed,2020-09-29
+93851,Gisela,7171,Sandals,Puma,black,14,Male,new,approved,2020-10-26
+91004,Gaston,5567,Sandals,Testoni,yellow,11,Male,used,approved,2020-10-14
+95285,Bobby,5567,Boots,Johnston & Murphy,gray,7,Male,new,,2020-09-26
+79223,Hubert,5394,Dress,Under Armour,blue,13,Female,new,approved,2020-09-25
+46637,Launa,4932,Sneakers,Jordan,black,5,Male,new,approved,2020-09-29
+93361,Riley,4932,Sneakers,Fila,brown,12,Male,like new,approved,2020-09-27
+14397,Hubert,4532,Sneakers,New Balance,yellow,0,Male,new,,2020-10-04
+19007,Hubert,4532,Sneakers,New Balance,yellow,14,Male,used,approved,2020-09-25
+23667,Launa,4069,Sneakers,Jordan,black,14,Male,like new,approved,2020-10-22
+49474,Migdalia,4069,Sneakers,Under Armour,gray,3,Female,new,approved,2020-09-25
+99069,Maira,4069,Sneakers,Adidas,black,1,Female,used,,2020-10-07
+6904,Ulysses,4030,Dress,Tommy Hilfiger,black,9,Male,new,approved,2020-09-29
+34059,Ulysses,4030,Dress,Tommy Hilfiger,brown,12,Male,used,,2020-10-31
+42094,Eveline,4030,Dress,Berluti,gray,12,Female,like new,approved,2020-10-20
+9806,Hilde,4069,Sneakers,ASICS,blue,2,Male,like new,,2020-10-04
+6387,Hilde,7210,Sneakers,ASICS,gray,10,Male,like new,approved,2020-09-29
+64396,Alethea,4030,Sneakers,Nike,black,10,Male,like new,approved,2020-10-22
+23316,Hubert,3586,Sneakers,New Balance,white,10,Male,like new,approved,2020-09-27
+75231,Eveline,3586,Dress,Berluti,gray,5,Female,used,,2020-10-29
+2075,Hubert,3169,Sneakers,New Balance,yellow,3,Male,new,listed,
+27081,Bobby,2839,Boots,Johnston & Murphy,black,2,Male,used,listed,
+44493,Bobby,2839,Boots,Johnston & Murphy,brown,7,Male,used,approved,2020-09-29
+13128,Bobby,2739,Boots,Johnston & Murphy,white,11,Male,new,approved,
+39904,Hubert,2739,Sneakers,New Balance,blue,0,Male,new,approved,2020-10-16
+55850,Shad,2739,Boots,Skechers,yellow,11,Male,new,listed,2020-10-08
+60645,Bobby,2739,Boots,Johnston & Murphy,gray,9,Male,like new,approved,2020-10-10
+79299,Ulysses,2739,Dress,Tommy Hilfiger,blue,5,Male,new,,
+84662,Era,2739,Sneakers,Reebok,blue,9,Male,used,approved,2020-10-09
+92988,Ulysses,2739,Dress,Tommy Hilfiger,brown,2,Male,used,approved,2020-10-13
+21864,Gisela,2328,Sandals,Puma,black,11,Male,new,sold,2020-10-12
+24408,Bobby,2328,Boots,Johnston & Murphy,brown,12,Male,new,approved,2020-10-14
+10505,Era,1903,Sneakers,Reebok,black,10,Male,new,listed,2020-09-28
+13766,Bobby,1903,Boots,Johnston & Murphy,black,12,Male,like new,listed,
+25360,Bobby,1903,Boots,Johnston & Murphy,gray,13,Male,new,approved,2020-10-26
+36202,Maira,1903,Sneakers,Adidas,brown,1,Female,used,sold,2020-10-04
+97924,Launa,1903,Sneakers,Jordan,brown,1,Male,new,,2020-10-17
+71684,Hubert,1820,Sneakers,New Balance,black,11,Male,new,listed,2020-09-28
+23206,Fae,1686,Sandals,Under Armour,black,0,Female,new,approved,2020-09-26
+47333,Maira,1686,Sneakers,Adidas,black,14,Female,like new,listed,2020-10-27
+85759,Alethea,1686,Sneakers,Nike,blue,12,Male,new,approved,
+90601,Launa,1686,Sneakers,Jordan,brown,0,Male,new,listed,2020-09-27
+46490,Birgit,1184,Dress,Bostonian,brown,12,Male,used,approved,2020-09-25
+35004,Birgit,492,Dress,Bostonian,yellow,0,Male,used,approved,2020-09-27
+59978,Nickie,492,Sneakers,Vans,white,7,Male,like new,,2020-09-26
+57721,Alethea,160,Sneakers,Nike,black,0,Male,new,approved,2020-10-21
+12774,Nickie,121,Sneakers,Vans,brown,10,Male,new,approved,2020-09-27
+5552,Eveline,98630,Dress,Berluti,brown,8,Male,like new,approved,2020-09-29
+3192,Eveline,96628,Dress,Berluti,gray,14,Male,new,approved,2020-10-15
+2250,Eveline,73793,Dress,Berluti,brown,14,Male,new,approved,2020-10-18
+3039,Maira,70967,Sneakers,Adidas,brown,6,Male,like new,approved,
+4868,Eveline,60810,Dress,Berluti,black,0,Male,like new,listed,2020-09-28
+2446,Hilde,51799,Sneakers,ASICS,gray,9,Male,like new,,2020-10-22
+3593,Gaston,19353,Sandals,Under Armour,blue,13,Male,used,approved,2020-09-27
+8432,Hilde,55244,Sneakers,ASICS,black,9,Male,like new,approved,2020-10-15
+2035,Fae,7617,Sneakers,LeBron,yellow,14,Male,new,approved,2020-10-14
+14551,Marvin,63624,Sneakers,Under Armour,black,2,Male,used,approved,2020-10-11
+15062,Maira,35623,Sneakers,Adidas,yellow,1,Male,new,,2020-09-27
+13979,Hilde,3169,Sneakers,ASICS,gray,11,Male,new,,2020-09-28
+974,Hubert,84526,Sneakers,New Balance,white,14,Female,like new,,2020-10-01
+672,Alethea,8680,Sneakers,Nike,brown,10,Female,like new,listed,2020-09-29
+1045,Bobby,2739,Boots,Johnston & Murphy,brown,9,Female,used,listed,2020-09-28
+1137,Maira,67463,Sneakers,Adidas,black,12,Female,like new,approved,2020-09-25
+915,Hilde,56363,Sneakers,ASICS,white,14,Female,like new,approved,
+509,Tomoko,53034,Sandals,Under Armour,brown,12,Female,used,listed,2020-09-25
+1437,Alethea,27228,Sneakers,Nike,yellow,11,Male,used,approved,
+1864,Maira,84840,Sneakers,Adidas,blue,3,Male,new,approved,2020-10-19
+1957,Hilde,47003,Sneakers,ASICS,brown,14,Male,like new,approved,2020-10-10
+1881,Birgit,29694,Dress,Bostonian,white,2,Male,new,approved,2020-10-27

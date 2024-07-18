@@ -1,0 +1,30 @@
+id,userid,firstname,lastname,contactreason,email,phone,orderid,resolution,contactmethod
+822950,3586,Bobby,Vamderheydem,Return,bobby.vanderheyden@fakeemail.com,(594) 811-5626,12802.0,Provided Information,Phone
+965323,67463,Claud,Mcgloster,Return,claud.mcgloster@fakeemail.com,(364) 604-2765,3090.0,Issued Refund,Phone
+184172,57729,Somer,Mcnespey,Technical Support,somer.mcnespey@yahoo.com,(979) 403-9102,23771.0,Provided Information,Email
+644088,40952,Britney,Mcfadin,Technical Support,britney.mcfadin@gmail.com,,,Provided Information,Email
+411564,51438,Karissa,Laman,Return,karissa.laman@xfinity.com,(723) 320-7335,22357.0,Issued Refund,Email
+567143,57364,Rueben,Krolick,Return,rueben.krolick@yahoo.com,(731) 590-7577,5378.0,Opened Case,Email
+312511,1686,Guy,Keaty,Mischarge,guy.keaty@fakeemail.com,(824) 646-5338,22083.0,Issued Refund,Email
+624716,74000,Stasia,Kazabi,Mischarge,stasia.kazabi@yahoo.com,(983) 412-7281,15567.0,Issued Refund,Email
+212838,97321,Loan,Ivery,Return,loan.ivery@netscape.com,,13157.0,Created Return,Email
+596152,99173,Nella,Ivery,Shipping Delay,nella.ivery@xfinity.com,,8140.0,Opened Case,Email
+218546,29694,Daina,Harling,Return,daina.harling@fakeemail.com,(664) 252-7172,31024.0,Issued Refund,Email
+730713,4069,Kitty,Goodspeed,Technical Support,kitty.goodspeed@xfinity.com,,,Provided Information,Email
+151557,7708,Garnet,Forston,Mischarge,garnet.forston@xfinity.com,(237) 593-8419,10351.0,Opened Case,Email
+517976,7708,Garnet,Forston,Mischarge,garnet.forston@xfinity.com,(706) 744-7318,25432.0,Opened Case,Email
+590197,58937,Gina,Eichstadt,Return,gina.eichstadt@gmail.com,,23273.0,Issued Refund,Email
+885981,95652,Lissa,Dobyns,Return,lissa.dobyns@xfinity.com,(554) 984-4201,20400.0,Issued Refund,Email
+569529,19628,Maragret,Blessett,Shipping Delay,maragret.blessett@aol.com,(669) 219-8643,6376.0,Issued Refund,Email
+650720,58868,Everett,Bjerknes,Shipping Delay,everett.bjerknes@aol.com,(465) 809-6428,13877.0,Provided Information,Email
+588903,58868,Everett,Bjerknes,Shipping Delay,everett.bjerknes@aol.com,(440) 456-9189,23819.0,Opened Case,Email
+220300,29076,Tobie,Baumkirchner,Return,tobie.baumkirchner@gmail.com,(752) 720-0071,9639.0,Created Return,Email
+426981,74000,Sdasia,Kazavi,Shipping Delay,stasia.kazabi@yahoo.com,(662) 580-6320,,Provided Information,Phone
+259904,29694,Daina,Harlimg,Return,daina.harling@fakeemail.com,(890) 333-1976,,Issued Refund,Phone
+486864,58937,Gina,Eichstadt,Technical Support,gina.eichstadt@gmail.com,(953) 549-5220,10889.0,Provided Information,Phone
+406584,29076,Tobie,Baumkirchmer,Return,tobie.baumkirchner@gmail.com,(435) 844-3650,15146.0,Provided Information,Phone
+797295,8624,Van,Bahe,Mischarge,van.bahe@aol.com,(954) 294-5773,914.0,Provided Information,Phone
+722716,51438,Karissa,Lamam,Shipping Delay,,,11869.0,Opened Case,Phone
+210264,51438,Karissa,Lamam,Mischarge,,,3698.0,Provided Information,Phone
+758140,99173,Nella,Ivery,Mischarge,,,5508.0,Created Return,Phone
+442430,58868,Everedd,Bjerkmes,Mischarge,,,17358.0,Created Return,Phone

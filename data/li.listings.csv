@@ -1,0 +1,431 @@
+listingid,sellerid,productid,shoetype,brand,color,gender,size,condition,listingprice,listingtype,listingcreatedate,listingenddate
+922399,25516,509,,UnderArmor,brown,F,12,Used,52.0,Auction,2020-10-06,
+493279,58233,509,Sandals or Flip Flops,UnderArmor,brown,F,12,Used,83.0,Auction,2020-10-05,2020-12-30
+695111,1903,672,,Nike,brown,M,10,Open Box,98.0,Fixed,2020-11-01,2020-11-17
+453340,57088,672,Sneakers,Nike,brown,M,10,Open Box,90.0,Fixed,2020-11-01,
+930526,57088,672,Sneakers,Nike,brown,M,10,Open Box,47.0,Auction,2020-10-02,
+965378,21437,1045,Boots,Johnston and Murphy,brown,M,9,Used,99.0,Auction,2020-10-04,
+586906,34152,1117,,Fila,black,M,10,Open Box,31.0,Fixed,2020-11-01,2020-12-10
+911587,20669,1117,Sandals or Flip Flops,Fila,black,M,10,Open Box,28.0,Fixed,2020-10-20,2020-11-02
+38266,49231,1117,Sneakers,Fila,black,M,10,Open Box,77.0,Auction,2020-10-20,
+893137,95652,1303,,Reebok,black,M,7,New,51.0,Fixed,2020-11-01,
+544961,54650,1303,Sneakers,Reebok,black,M,7,New,57.0,Auction,2020-10-21,
+17123,25048,1303,Sneakers,Reebok,black,M,7,New,29.0,Auction,2020-10-07,
+968898,61869,1303,Sneakers,Reebok,black,M,7,New,83.0,Fixed,2020-11-01,2020-12-04
+957422,96342,2075,,NewBalance,yellow,M,3,New,64.0,Fixed,2020-11-01,
+272183,25602,2267,Sneakers,Nike,black,M,11,Open Box,70.0,Auction,2020-10-05,
+171326,70276,4306,Boots,Skechers,black,M,2,Open Box,70.0,Fixed,2020-10-03,
+830733,31991,4306,Boots,Skechers,black,M,2,Open Box,48.0,Fixed,2020-11-01,2020-12-16
+509394,83478,4466,,Reebok,black,M,12,New,42.0,Fixed,2020-11-01,2020-11-02
+780492,87739,4655,,New Balance,brown,M,0,Open Box,53.0,Auction,2020-11-01,
+351716,92916,4655,Sandals or Flip Flops,New Balance,brown,M,0,Open Box,55.0,Fixed,2020-10-26,
+854142,84840,4868,Dress Shoes,Berlutti,black,F,0,Open Box,47.0,Fixed,2020-11-01,
+725773,99900,5561,,New Balance,blue,M,11,New,24.0,Fixed,2020-10-27,
+831395,3583,5561,,New Balance,blue,M,11,New,54.0,Auction,2020-11-01,2020-11-28
+942361,67463,6247,Sneakers,Nike,,M,6,Used,22.0,Fixed,2020-11-01,
+647301,42783,6247,Sneakers,Nike,brown,M,6,Used,31.0,Auction,2020-11-01,2020-11-09
+504805,98114,6247,Sneakers,Nike,brown,M,6,Used,31.0,Fixed,2020-11-01,
+828362,19628,6247,Sneakers,Nike,brown,M,6,Used,36.0,Fixed,2020-10-26,
+838063,34244,6247,Sneakers,Nike,brown,M,6,Used,47.0,Auction,2020-11-01,
+340770,49421,7976,Sandals or Flip Flops,NewBalance,,M,11,New,61.0,Auction,2020-10-15,
+577143,7617,7976,Sneakers,NewBalance,gray,M,11,New,72.0,Auction,2020-11-01,2020-11-02
+780627,29396,7976,Sneakers,,gray,M,11,New,25.0,Fixed,2020-11-01,
+883844,65637,7976,Sneakers,NewBalance,gray,M,11,New,22.0,Auction,2020-11-01,2020-12-25
+53137,17256,9206,Boots,Skechers,yellow,M,2,Used,28.0,Fixed,2020-10-27,
+724830,58233,9685,Sneakers,New Balance,yellow,M,13,Used,93.0,Fixed,2020-10-03,
+211969,65637,10063,Dress Shoes,Bostonian,white,F,13,Used,64.0,Fixed,2020-10-07,
+660724,96628,10063,Dress Shoes,Bostonian,white,F,13,Used,52.0,Auction,2020-11-01,
+622232,78326,10505,Sandals or Flip Flops,Reeboke,black,M,10,New,97.0,Fixed,2020-10-26,
+598408,65071,10996,Sneakers,Reeboke,gray,M,2,New,67.0,Auction,2020-10-14,2020-12-29
+244248,67154,11994,Sandals or Flip Flops,Johnston and Murphy,,M,4,New,33.0,Fixed,2020-10-08,
+506145,53783,13252,Sandals or Flip Flops,Testoni,black,M,6,New,13.0,Auction,2020-11-01,
+403873,87739,13766,Boots,Johnston & Murphy,black,M,12,Open Box,81.0,Fixed,2020-11-01,2020-11-08
+509432,34244,13766,Boots,Johnston & Murphy,black,M,12,Open Box,52.0,Fixed,2020-11-01,2020-11-19
+562822,8680,13766,,Johnston & Murphy,black,M,12,Open Box,89.0,Fixed,2020-10-02,
+335667,47122,15238,Sandals or Flip Flops,Addidas,yellow,F,0,Open Box,74.0,Auction,2020-11-01,
+825004,65637,16264,,Johnston & Murphy,white,M,14,Used,92.0,Fixed,2020-10-30,
+565643,31991,17297,Sneakers,Addidas,,F,11,Used,53.0,Auction,2020-11-01,2020-11-05
+572180,26251,17297,Sneakers,Addidas,white,F,11,Used,51.0,Auction,2020-10-14,2020-11-12
+247562,98630,17297,Sneakers,Addidas,white,F,11,Used,14.0,Fixed,2020-10-15,
+467504,80288,17297,Sneakers,Addidas,white,F,11,Used,83.0,Fixed,2020-11-01,
+888476,24052,17297,Sandals or Flip Flops,Addidas,white,F,11,Used,31.0,Fixed,2020-10-24,
+368980,2739,17950,Boots,Skechers,yellow,M,11,Used,41.0,Auction,2020-11-01,2020-12-01
+519603,69088,18082,,Adidas,gray,F,1,New,91.0,Auction,2020-11-01,
+685802,16714,18082,,Adidas,gray,F,1,New,93.0,Auction,2020-10-04,2020-12-11
+875488,29307,18205,Sandals or Flip Flops,Vans,,M,6,New,20.0,Fixed,2020-11-01,
+736888,80164,18205,Sneakers,Vans,black,M,6,New,33.0,Auction,2020-11-01,
+101304,1686,18205,Sneakers,Vans,black,M,6,New,79.0,Auction,2020-10-25,2020-12-04
+713380,66912,18266,Boots,Johnston & Murphy,black,M,10,New,13.0,Auction,2020-10-05,
+148250,42783,18959,,Nike,blue,M,9,Open Box,75.0,Auction,2020-10-11,2020-11-12
+878240,83287,18998,Sneakers,UnderArmor,gray,F,5,New,19.0,Fixed,2020-11-01,
+824865,18292,18998,,UnderArmor,gray,F,5,New,11.0,Fixed,2020-10-19,2020-11-29
+196200,31991,18998,Sneakers,UnderArmor,gray,F,5,New,91.0,Fixed,2020-11-01,
+730863,67463,19242,Dress Shoes,Berlutti,white,F,2,Used,39.0,Fixed,2020-11-01,
+278800,49231,19795,,nike,gray,M,2,New,58.0,Auction,2020-11-01,
+444587,83396,19795,Sneakers,nike,gray,M,2,New,71.0,Fixed,2020-10-25,
+436994,5567,21864,Sandals or Flip Flops,Puma,black,M,11,New,23.0,Fixed,2020-11-01,2020-12-12
+346971,76544,21932,Boots,Johnston and Murphy,black,M,1,New,66.0,Auction,2020-10-23,
+898782,9363,21932,,Johnston and Murphy,black,M,1,New,99.0,Fixed,2020-11-01,
+878505,99173,23968,,NewBalance,black,M,11,Open Box,84.0,Fixed,2020-11-01,2020-11-02
+955844,76339,23968,Sneakers,NewBalance,black,M,11,Open Box,75.0,Fixed,2020-10-04,
+957680,49421,23968,Sneakers,NewBalance,black,M,11,Open Box,57.0,Fixed,2020-11-01,
+526920,71508,24618,Dress Shoes,Berluti,white,F,1,Open Box,76.0,Auction,2020-10-20,
+984464,80424,25637,Boots,Johnston and Murphy,brown,M,8,Used,53.0,Fixed,2020-11-01,
+526449,69317,25819,Sneakers,Reeboke,yellow,M,10,New,81.0,Fixed,2020-10-09,2020-12-30
+994673,85492,26162,Sneakers,vans,black,M,14,Used,83.0,Auction,2020-10-30,
+356389,98630,26452,Sneakers,Nike,white,M,1,New,38.0,Fixed,2020-11-01,
+950020,63624,26452,Sneakers,Nike,white,M,1,New,51.0,Fixed,2020-11-01,
+923603,99235,26745,Dress Shoes,Berluti,brown,F,8,Open Box,83.0,Auction,2020-10-24,2020-11-13
+49661,99293,26745,Dress Shoes,Berluti,brown,F,8,Open Box,43.0,Auction,2020-11-01,
+781719,86742,26745,Dress Shoes,Berluti,brown,F,8,Open Box,19.0,Fixed,2020-10-24,
+10650,7210,26745,Dress Shoes,Berluti,brown,F,8,Open Box,55.0,Fixed,2020-10-24,
+776376,50986,26777,Sneakers,Reebok,brown,M,14,New,36.0,Fixed,2020-10-24,
+517688,91871,27081,Boots,Johnston & Murphy,black,M,2,Used,11.0,Auction,2020-10-01,2020-11-05
+386484,10295,27081,,Johnston & Murphy,black,M,2,Used,30.0,Auction,2020-11-01,
+88148,10950,27082,Sandals or Flip Flops,Testoni,black,M,10,Used,90.0,Fixed,2020-10-14,
+186496,16714,27531,Sandals or Flip Flops,Puma,blue,M,12,New,61.0,Fixed,2020-10-21,2020-12-14
+555221,20834,28026,,Testoni,white,M,0,New,54.0,Auction,2020-10-23,
+43579,83478,28441,Sneakers,LeBron,brown,M,4,New,93.0,Auction,2020-11-01,2020-11-19
+678038,40952,29086,Sandals or Flip Flops,UnderArmor,brown,F,8,Open Box,73.0,Auction,2020-11-01,
+742674,54650,30552,Dress Shoes,Bostonian,blue,M,0,New,50.0,Auction,2020-10-06,
+704146,4030,32457,Sneakers,ASICS,brown,F,13,New,13.0,Fixed,2020-10-03,2020-11-02
+780109,1903,32457,Sandals or Flip Flops,ASICS,brown,F,13,New,33.0,Fixed,2020-11-01,
+930861,76339,32457,Sneakers,ASICS,brown,F,13,New,98.0,Fixed,2020-10-11,
+10117,70214,32457,Sneakers,ASICS,brown,F,13,New,19.0,Fixed,2020-11-01,2020-11-15
+526003,87144,32560,Sneakers,Nike,black,M,11,New,17.0,Auction,2020-10-19,2020-11-12
+747967,19353,32560,Sneakers,Nike,black,M,11,New,48.0,Fixed,2020-11-01,
+30513,66149,32560,Sneakers,Nike,black,M,11,New,12.0,Auction,2020-10-25,
+967448,73462,32560,Sandals or Flip Flops,Nike,black,M,11,New,68.0,Auction,2020-10-17,
+407919,58937,33109,Dress Shoes,Tommy Hilfiger,black,M,5,New,90.0,Auction,2020-11-01,
+603671,39397,34807,Sandals or Flip Flops,Jordan,white,M,3,Used,50.0,Fixed,2020-10-20,
+961760,82908,34807,,Jordan,white,M,3,Used,39.0,Fixed,2020-10-23,2020-11-01
+660376,90168,35063,Sneakers,Reebok,black,M,14,New,44.0,Auction,2020-10-04,
+104240,24738,35063,Sneakers,Reebok,black,M,14,New,92.0,Fixed,2020-11-01,
+800286,67463,35063,Sneakers,Reebok,black,M,14,New,68.0,Auction,2020-10-12,
+82536,49421,35809,Sneakers,Reeboke,blue,M,13,Open Box,36.0,Auction,2020-11-01,2020-12-02
+983609,98786,35809,Sneakers,Reeboke,blue,M,13,Open Box,38.0,Auction,2020-11-01,2020-11-04
+998839,38833,36202,Sneakers,Addidas,brown,F,1,Used,45.0,Fixed,2020-10-09,2020-12-04
+999811,85492,36345,Sneakers,Adidas,black,F,11,New,29.0,Fixed,2020-11-01,
+544387,9479,36473,Sandals or Flip Flops,Testoni,brown,M,11,New,95.0,Auction,2020-11-01,
+802274,76394,36750,Sneakers,Nike,brown,M,13,New,22.0,Fixed,2020-10-21,2020-12-22
+216624,22474,36972,Sneakers,New Balance,,M,7,New,55.0,Fixed,2020-10-03,
+116835,53783,38418,Dress Shoes,Tommy Hilfiger,brown,M,1,New,95.0,Fixed,2020-11-01,2020-12-05
+470285,56260,38418,Dress Shoes,Tommy Hilfiger,brown,M,1,New,77.0,Auction,2020-11-01,2020-12-08
+970331,99293,38551,Sneakers,Adidas,black,F,13,New,37.0,Auction,2020-10-18,2020-12-24
+393541,58868,38551,Sneakers,Adidas,black,F,13,New,67.0,Auction,2020-11-01,
+366130,44576,38551,Sneakers,Adidas,black,F,13,New,89.0,Fixed,2020-10-22,2020-11-04
+319253,29412,39141,Dress Shoes,Berluti,black,F,13,New,58.0,Auction,2020-11-01,
+842887,83287,39900,Sandals or Flip Flops,Converse,black,M,11,New,68.0,Fixed,2020-11-01,
+983235,45074,40639,Sneakers,,blue,M,14,New,75.0,Fixed,2020-11-01,
+413825,10295,41045,Sneakers,Addidas,brown,F,12,Open Box,96.0,Fixed,2020-10-01,
+40887,83209,41045,,Addidas,brown,F,12,Open Box,29.0,Fixed,2020-10-21,
+573373,94983,41137,Dress Shoes,Berluti,yellow,F,8,Used,10.0,Fixed,2020-10-08,
+688576,10789,42146,Sandals or Flip Flops,Testoni,blue,M,5,Used,94.0,Auction,2020-10-08,
+259243,51438,42146,Sandals or Flip Flops,Testoni,blue,M,5,Used,99.0,Auction,2020-10-06,
+419834,29396,42541,Sandals or Flip Flops,Puma,brown,M,10,New,88.0,Fixed,2020-11-01,
+295730,98196,42541,Sandals or Flip Flops,Puma,brown,M,10,New,45.0,Auction,2020-10-25,
+194575,34114,42659,Sandals or Flip Flops,Converse,brown,M,2,New,93.0,Auction,2020-10-01,
+593215,33305,43358,,Reeboke,black,M,14,New,68.0,Auction,2020-10-25,
+345910,57356,43358,Sneakers,Reeboke,black,M,14,New,91.0,Auction,2020-11-01,
+324716,99900,43358,Sneakers,Reeboke,black,M,14,New,82.0,Fixed,2020-11-01,
+561502,30773,43358,Sneakers,,black,M,14,New,24.0,Auction,2020-11-01,
+495555,76394,43358,Sneakers,Reeboke,black,M,14,New,58.0,Fixed,2020-11-01,
+541645,56363,43358,Sneakers,Reeboke,black,M,14,New,38.0,Auction,2020-11-01,
+740668,60531,43966,Sneakers,Fila,gray,M,2,New,87.0,Fixed,2020-10-11,
+741302,80164,43966,Sandals or Flip Flops,,gray,M,2,New,60.0,Auction,2020-10-08,
+960278,51438,44046,Dress Shoes,,brown,F,11,New,72.0,Fixed,2020-11-01,
+249194,58685,44046,Dress Shoes,Bostonian,brown,F,11,New,25.0,Auction,2020-10-26,
+878594,23590,44046,Dress Shoes,Bostonian,brown,F,11,New,68.0,Fixed,2020-11-01,
+559023,29412,44987,Sandals or Flip Flops,Testoni,black,M,14,New,94.0,Auction,2020-11-01,2020-12-04
+718733,76394,45678,Sneakers,ASICS,black,F,2,New,59.0,Auction,2020-10-20,
+247607,80753,46243,Sneakers,Nike,black,M,4,New,81.0,Auction,2020-10-20,
+612166,3169,46272,Sneakers,Adidas,black,F,1,Used,91.0,Fixed,2020-10-01,
+857648,20669,46493,Sneakers,vans,yellow,M,3,Open Box,38.0,Auction,2020-10-11,2020-11-20
+313797,16276,46493,,vans,yellow,M,3,Open Box,46.0,Fixed,2020-10-15,2020-12-20
+228286,16548,46746,,ASICS,yellow,F,4,New,18.0,Fixed,2020-10-18,
+53574,65175,47064,Sneakers,Adidas,brown,F,7,New,78.0,Fixed,2020-10-04,2020-11-19
+479892,2739,47064,Sneakers,Adidas,brown,F,7,New,23.0,Fixed,2020-11-01,
+60555,76339,47333,Sneakers,Adidas,black,F,14,Open Box,93.0,Fixed,2020-11-01,
+149248,57356,47333,Sneakers,Adidas,black,F,14,Open Box,58.0,Auction,2020-11-01,
+686437,85348,47333,,Adidas,black,F,14,Open Box,57.0,Auction,2020-10-27,2020-12-29
+371680,160,48198,Boots,Johnston & Murphy,black,M,8,Open Box,49.0,Auction,2020-11-01,
+963481,26017,48198,Boots,Johnston & Murphy,black,M,8,Open Box,16.0,Fixed,2020-11-01,
+340565,76459,48198,Boots,Johnston & Murphy,black,M,8,Open Box,97.0,Auction,2020-10-29,2020-11-15
+805461,21437,48198,Boots,Johnston & Murphy,black,M,8,Open Box,18.0,Auction,2020-10-02,2020-11-23
+861344,83507,48593,Sandals or Flip Flops,UnderArmor,gray,F,8,Used,13.0,Auction,2020-10-23,
+347984,23476,48593,Sandals or Flip Flops,UnderArmor,gray,F,8,Used,23.0,Auction,2020-11-01,
+120847,78897,48770,Sandals or Flip Flops,Vans,blue,M,14,New,45.0,Fixed,2020-10-26,
+330203,27832,49718,Sneakers,LeBron,brown,M,14,New,80.0,Fixed,2020-10-08,
+654351,2739,49718,Sneakers,LeBron,brown,M,14,New,77.0,Fixed,2020-11-01,
+871873,57364,49718,Sneakers,LeBron,brown,M,14,New,97.0,Auction,2020-10-08,
+389441,51438,49718,Sandals or Flip Flops,LeBron,brown,M,14,New,12.0,Fixed,2020-10-08,
+57124,54988,49886,Sandals or Flip Flops,New Balance,brown,M,13,Open Box,56.0,Auction,2020-11-01,
+211904,7957,49886,Sandals or Flip Flops,New Balance,brown,M,13,Open Box,21.0,Auction,2020-11-01,
+328390,71070,50233,Dress Shoes,Bostonian,black,M,13,New,84.0,Auction,2020-10-29,
+521640,39397,50233,Dress Shoes,Bostonian,black,M,13,New,11.0,Auction,2020-11-01,2020-11-13
+493086,60972,50579,Sneakers,LeBron,brown,M,1,New,80.0,Auction,2020-11-01,
+66141,10643,50579,Sandals or Flip Flops,LeBron,brown,M,1,New,86.0,Auction,2020-11-01,
+589999,83287,51001,Dress Shoes,Berluti,gray,F,11,Used,69.0,Fixed,2020-11-01,2020-11-28
+76304,51438,51186,Dress Shoes,Tommy Hilfiger,brown,M,3,New,52.0,Fixed,2020-10-18,
+138706,57729,51414,Sneakers,New Balance,brown,M,6,New,18.0,Fixed,2020-10-19,2020-11-19
+160752,86052,51414,,New Balance,brown,M,6,New,78.0,Auction,2020-11-01,2020-12-30
+732763,98630,51453,,Nike,black,M,6,Open Box,52.0,Fixed,2020-10-16,
+869149,2739,51453,Sandals or Flip Flops,Nike,black,M,6,Open Box,57.0,Auction,2020-11-01,2020-12-05
+107765,2839,51453,Sneakers,Nike,black,M,6,Open Box,12.0,Auction,2020-11-01,2020-12-10
+863472,74000,51763,Sneakers,Addidas,white,F,3,Used,66.0,Fixed,2020-11-01,
+915268,57364,51960,,Vans,white,M,10,Open Box,61.0,Auction,2020-10-02,
+884302,65637,51960,Sandals or Flip Flops,Vans,white,M,10,Open Box,89.0,Auction,2020-11-01,
+294385,12406,52086,Sneakers,Jordan,gray,M,1,Used,14.0,Fixed,2020-11-01,
+676445,83507,52086,Sneakers,Jordan,gray,M,1,Used,26.0,Fixed,2020-11-01,2020-11-03
+384164,49231,52830,Sneakers,LeBron,blue,M,5,Used,97.0,Auction,2020-10-25,2020-12-03
+782873,56104,53626,Sneakers,,blue,F,3,Used,38.0,Fixed,2020-11-01,
+751981,4069,53626,Sneakers,Adidas,blue,F,3,Used,50.0,Fixed,2020-11-01,2020-12-20
+348827,25092,53626,Sneakers,,blue,F,3,Used,40.0,Fixed,2020-11-01,
+623593,49231,53626,Sneakers,Adidas,blue,F,3,Used,73.0,Auction,2020-10-15,
+921823,56260,54156,Sneakers,LeBron,gray,M,9,New,37.0,Fixed,2020-10-23,
+369528,22474,54468,,Skechers,white,M,13,New,85.0,Fixed,2020-10-05,
+6360,42233,54704,Sneakers,UnderArmor,white,F,12,New,73.0,Fixed,2020-10-14,2020-11-02
+285810,54988,55264,Sneakers,Adidas,yellow,F,10,Open Box,86.0,Auction,2020-11-01,2020-12-09
+397611,10643,55264,Sneakers,Adidas,yellow,F,10,Open Box,12.0,Fixed,2020-10-05,
+814809,74000,55264,Sneakers,Adidas,yellow,F,10,Open Box,30.0,Auction,2020-10-21,2020-11-18
+249602,80164,55850,,Skechers,yellow,M,11,New,31.0,Fixed,2020-11-01,2020-12-17
+995589,99900,55850,Boots,Skechers,yellow,M,11,New,99.0,Fixed,2020-11-01,
+870635,99900,55850,Boots,Skechers,yellow,M,11,New,69.0,Fixed,2020-11-01,
+372017,84840,55989,Boots,Skechers,white,M,13,Used,52.0,Fixed,2020-10-21,2020-11-02
+855012,92715,55989,Sandals or Flip Flops,Skechers,white,M,13,Used,10.0,Auction,2020-11-01,2020-11-13
+142437,2739,55989,Sandals or Flip Flops,Skechers,white,M,13,Used,50.0,Fixed,2020-10-25,2020-11-27
+6467,57356,56162,Sneakers,vans,brown,M,7,Open Box,28.0,Fixed,2020-11-01,
+439068,63624,56480,Sneakers,nike,gray,M,5,Open Box,15.0,Auction,2020-11-01,2020-11-14
+655897,86826,56480,Sneakers,nike,gray,M,5,Open Box,22.0,Auction,2020-10-30,2020-12-20
+953871,74000,57120,Sandals or Flip Flops,Jordan,black,M,9,Open Box,57.0,Auction,2020-11-01,
+38307,34244,57120,Sneakers,Jordan,black,M,9,Open Box,39.0,Fixed,2020-11-01,
+258039,44135,57120,Sneakers,Jordan,black,M,9,Open Box,40.0,Auction,2020-11-01,2020-11-19
+1928,92386,59541,Sneakers,Reebok,black,M,0,Used,13.0,Auction,2020-10-23,
+319806,48276,59572,Boots,Johnston and Murphy,white,M,10,Used,71.0,Fixed,2020-10-24,2020-12-05
+535787,84949,60029,Sandals or Flip Flops,Skechers,black,M,11,New,49.0,Auction,2020-11-01,
+481517,50098,60462,Sneakers,UnderArmor,blue,F,5,Open Box,54.0,Fixed,2020-10-27,
+706775,99900,60462,Sandals or Flip Flops,UnderArmor,blue,F,5,Open Box,81.0,Fixed,2020-11-01,
+544275,57074,60503,Sneakers,ASICS,brown,F,10,Open Box,82.0,Auction,2020-11-01,
+364097,80288,61135,Sneakers,Reeboke,black,M,14,New,77.0,Auction,2020-10-15,
+1223,1903,62022,,Berlutti,gray,F,8,Used,53.0,Auction,2020-11-01,
+112108,4030,62197,Sneakers,Nike,brown,M,13,New,41.0,Fixed,2020-10-09,2020-11-04
+209113,99900,62197,Sneakers,Nike,brown,M,13,New,90.0,Auction,2020-11-01,
+336572,4030,62201,,NewBalance,black,M,13,Used,27.0,Fixed,2020-11-01,
+483600,74000,62201,Sneakers,NewBalance,black,M,13,Used,51.0,Auction,2020-10-10,
+169643,29412,62201,Sneakers,NewBalance,black,M,13,Used,31.0,Fixed,2020-10-27,
+311907,54988,62201,Sandals or Flip Flops,NewBalance,black,M,13,Used,79.0,Fixed,2020-11-01,
+903040,19353,62345,Sneakers,Nike,brown,M,2,Open Box,43.0,Auction,2020-10-22,
+554487,67463,62345,Sneakers,Nike,brown,M,2,Open Box,52.0,Fixed,2020-10-22,
+50368,25516,62345,Sneakers,Nike,brown,M,2,Open Box,13.0,Fixed,2020-10-22,
+913295,91575,62345,Sneakers,,brown,M,2,Open Box,72.0,Fixed,2020-11-01,2020-12-06
+117975,7957,62345,Sneakers,Nike,brown,M,2,Open Box,93.0,Fixed,2020-10-29,2020-12-16
+860081,27228,62669,Boots,Skechers,yellow,M,7,New,76.0,Auction,2020-11-01,
+861806,94187,62669,Sandals or Flip Flops,Skechers,yellow,M,7,New,61.0,Fixed,2020-11-01,2020-12-31
+910165,56612,62669,,Skechers,yellow,M,7,New,75.0,Auction,2020-10-02,
+72296,19353,62669,Sandals or Flip Flops,Skechers,yellow,M,7,New,74.0,Auction,2020-11-01,2020-11-15
+308800,76459,62691,Sneakers,Nike,brown,M,6,Used,58.0,Auction,2020-10-21,
+923092,58868,62936,Sneakers,Reeboke,black,M,14,Open Box,67.0,Auction,2020-10-06,
+1862,82908,63081,,UnderArmor,brown,F,2,New,73.0,Auction,2020-11-01,
+613886,51799,63541,Sandals or Flip Flops,Converse,gray,M,5,Used,44.0,Auction,2020-11-01,
+838117,39903,64374,Sneakers,nike,black,M,3,Open Box,14.0,Fixed,2020-11-01,
+741270,7210,64374,Sneakers,nike,black,M,3,Open Box,52.0,Fixed,2020-10-04,2020-11-26
+664609,67463,64380,Dress Shoes,Berlutti,black,F,12,Open Box,78.0,Auction,2020-10-02,
+845718,121,64907,,Vans,black,M,4,Open Box,94.0,Auction,2020-10-24,
+48185,67392,64988,Sneakers,LeBron,blue,M,2,New,69.0,Fixed,2020-11-01,
+848655,47183,65679,Sneakers,LeBron,black,M,12,New,75.0,Fixed,2020-11-01,2020-12-30
+442190,58937,65684,Dress Shoes,Berlutti,gray,F,6,New,68.0,Fixed,2020-11-01,
+290439,65888,65814,Boots,Skechers,black,M,6,New,80.0,Fixed,2020-10-15,
+215768,3586,66578,Boots,Skechers,brown,M,14,Used,33.0,Auction,2020-11-01,2020-11-29
+151051,29076,66583,Sneakers,Reeboke,white,M,4,Open Box,98.0,Auction,2020-11-01,2020-11-18
+757939,71923,66938,Sneakers,Reebok,,M,7,New,58.0,Fixed,2020-11-01,
+675435,99173,66938,Sneakers,Reebok,brown,M,7,New,23.0,Auction,2020-11-01,2020-12-18
+181552,42233,66938,Sneakers,Reebok,brown,M,7,New,83.0,Auction,2020-11-01,
+206459,49231,67239,Sneakers,Fila,gray,M,14,New,24.0,Fixed,2020-10-06,
+619007,61663,67239,Sneakers,Fila,gray,M,14,New,65.0,Auction,2020-10-30,
+445999,74000,67239,Sneakers,Fila,gray,M,14,New,59.0,Fixed,2020-11-01,
+913234,72185,67239,Sandals or Flip Flops,Fila,gray,M,14,New,49.0,Fixed,2020-11-01,
+74046,76394,67239,Sneakers,Fila,gray,M,14,New,82.0,Fixed,2020-10-26,
+396388,25602,67747,Sneakers,nike,yellow,M,6,Open Box,28.0,Fixed,2020-11-01,
+936854,90477,67794,Sneakers,Addidas,white,F,10,New,89.0,Auction,2020-10-17,
+623191,34244,69029,Sneakers,Vans,blue,M,11,Used,41.0,Fixed,2020-10-05,
+907866,19353,69491,Sneakers,Reebok,gray,M,10,New,34.0,Auction,2020-11-01,
+678690,72697,69491,Sneakers,Reebok,gray,M,10,New,10.0,Fixed,2020-10-16,2020-12-06
+364327,34244,69703,Sneakers,Reebok,brown,M,11,Used,17.0,Fixed,2020-10-26,
+849360,58868,69703,Sneakers,Reebok,brown,M,11,Used,44.0,Fixed,2020-11-01,
+221818,31027,69703,,Reebok,brown,M,11,Used,13.0,Fixed,2020-10-26,
+721383,98114,69703,Sneakers,Reebok,brown,M,11,Used,23.0,Auction,2020-10-26,
+718972,32346,69703,Sandals or Flip Flops,Reebok,brown,M,11,Used,45.0,Auction,2020-11-01,2020-11-28
+87093,71409,69950,Sneakers,Adidas,black,F,5,Used,16.0,Fixed,2020-10-03,
+897398,84678,70065,Sneakers,vans,white,M,14,New,72.0,Auction,2020-11-01,2020-12-02
+784583,15543,70355,Sandals or Flip Flops,Addidas,yellow,F,1,New,47.0,Auction,2020-11-01,
+755769,95652,70985,Sneakers,New Balance,brown,M,8,Used,14.0,Fixed,2020-10-23,
+208001,91575,70989,,Bostonian,yellow,F,8,Used,48.0,Fixed,2020-10-27,
+489915,42783,70989,,Bostonian,yellow,F,8,Used,82.0,Auction,2020-10-02,2020-11-02
+525742,57030,70989,Dress Shoes,Bostonian,yellow,F,8,Used,41.0,Fixed,2020-10-07,
+447479,4069,71015,Sandals or Flip Flops,ASICS,black,F,10,Used,30.0,Fixed,2020-11-01,
+14259,58868,71510,,Puma,white,M,0,New,20.0,Fixed,2020-10-27,
+86344,25516,71510,Sandals or Flip Flops,Puma,white,M,0,New,61.0,Auction,2020-11-01,
+367304,90574,71510,Sandals or Flip Flops,Puma,white,M,0,New,35.0,Auction,2020-10-21,
+27607,75904,71684,Sneakers,NewBalance,black,M,11,New,34.0,Fixed,2020-11-01,
+600924,84840,71744,Sneakers,Addidas,black,F,2,Open Box,10.0,Auction,2020-11-01,
+223069,51438,71744,Sneakers,Addidas,black,F,2,Open Box,95.0,Auction,2020-10-05,2020-11-08
+636499,39536,71962,,nike,yellow,M,11,Open Box,83.0,Auction,2020-11-01,
+302440,55759,71962,Sneakers,nike,yellow,M,11,Open Box,48.0,Fixed,2020-11-01,
+55000,10295,71962,,nike,yellow,M,11,Open Box,53.0,Auction,2020-10-06,
+14967,53034,72064,Dress Shoes,Berlutti,white,F,14,New,77.0,Auction,2020-11-01,
+814691,19758,72064,Dress Shoes,Berlutti,white,F,14,New,24.0,Auction,2020-10-31,
+704150,99173,72064,Dress Shoes,Berlutti,white,F,14,New,89.0,Fixed,2020-11-01,
+767903,60810,72064,Dress Shoes,Berlutti,white,F,14,New,35.0,Fixed,2020-11-01,
+617795,91575,72109,Dress Shoes,Tommy Hilfiger,black,M,11,New,59.0,Auction,2020-10-06,2020-12-16
+636253,99173,72384,Dress Shoes,Bostonian,yellow,M,0,Used,39.0,Fixed,2020-11-01,
+187858,70527,73065,Sneakers,Addidas,blue,F,3,New,44.0,Auction,2020-11-01,
+279738,85824,73065,,Addidas,blue,F,3,New,33.0,Fixed,2020-11-01,2020-11-03
+643801,18292,73601,Sneakers,Jordan,gray,M,12,Used,24.0,Auction,2020-10-26,
+662765,51438,73881,Sandals or Flip Flops,Puma,yellow,M,2,Used,42.0,Auction,2020-10-25,
+940625,61663,73881,Sandals or Flip Flops,Puma,yellow,M,2,Used,52.0,Fixed,2020-10-16,
+959027,76394,73881,Sandals or Flip Flops,Puma,yellow,M,2,Used,28.0,Auction,2020-10-11,
+844084,72995,73881,Sandals or Flip Flops,Puma,yellow,M,2,Used,89.0,Auction,2020-10-11,2020-11-12
+256285,78370,73881,Sandals or Flip Flops,Puma,yellow,M,2,Used,82.0,Auction,2020-11-01,
+660809,53783,73881,Sandals or Flip Flops,Puma,yellow,M,2,Used,86.0,Auction,2020-11-01,
+736400,24052,73927,Sneakers,Jordan,gray,M,10,Open Box,68.0,Fixed,2020-11-01,
+277456,19628,73927,Sneakers,Jordan,gray,M,10,Open Box,76.0,Fixed,2020-10-25,
+781431,98786,73927,Sneakers,Jordan,gray,M,10,Open Box,48.0,Auction,2020-10-25,
+498202,81719,73927,Sneakers,Jordan,gray,M,10,Open Box,88.0,Fixed,2020-10-27,2020-11-29
+254919,61663,74116,Sandals or Flip Flops,Testoni,brown,M,0,Open Box,68.0,Fixed,2020-10-13,
+443891,3169,74116,,Testoni,brown,M,0,Open Box,18.0,Fixed,2020-10-28,
+810379,22514,74484,Sneakers,Nike,yellow,M,6,New,51.0,Auction,2020-10-24,
+105674,17652,75083,Dress Shoes,Bostonian,blue,M,0,Open Box,20.0,Auction,2020-10-30,
+706902,78046,75083,Dress Shoes,Bostonian,blue,M,0,Open Box,55.0,Fixed,2020-11-01,
+741574,57364,76422,Sneakers,vans,gray,M,12,Used,23.0,Auction,2020-11-01,
+721184,80424,76422,,vans,gray,M,12,Used,38.0,Fixed,2020-11-01,
+477032,33305,76422,Sandals or Flip Flops,vans,gray,M,12,Used,43.0,Fixed,2020-11-01,2020-11-04
+798401,61869,76788,,New Balance,gray,M,14,New,58.0,Auction,2020-10-18,
+329175,84840,76788,Sneakers,New Balance,gray,M,14,New,65.0,Auction,2020-11-01,
+657715,24738,76884,Sandals or Flip Flops,nike,gray,M,9,New,41.0,Fixed,2020-10-26,
+635335,81731,76948,Sneakers,Nike,,M,14,New,73.0,Fixed,2020-11-01,
+320402,64569,77039,Dress Shoes,Berluti,brown,F,11,Used,26.0,Fixed,2020-11-01,
+637663,27832,77039,Dress Shoes,Berluti,brown,F,11,Used,93.0,Fixed,2020-11-01,
+691841,88769,77039,Dress Shoes,Berluti,brown,F,11,Used,24.0,Auction,2020-11-01,
+303445,78897,77039,Dress Shoes,Berluti,brown,F,11,Used,73.0,Fixed,2020-10-02,2020-12-07
+142451,2739,77588,Sandals or Flip Flops,Nike,yellow,M,8,Used,24.0,Auction,2020-10-01,
+956345,94187,77588,,Nike,yellow,M,8,Used,48.0,Fixed,2020-10-16,
+589178,53422,78116,Boots,Johnston & Murphy,brown,M,13,Open Box,23.0,Auction,2020-11-01,
+273830,58868,78116,Boots,Johnston & Murphy,brown,M,13,Open Box,70.0,Fixed,2020-11-01,
+946968,25516,78116,Boots,Johnston & Murphy,brown,M,13,Open Box,73.0,Auction,2020-10-27,
+637265,72697,78116,Boots,Johnston & Murphy,brown,M,13,Open Box,36.0,Auction,2020-11-01,
+979211,99900,78116,Boots,Johnston & Murphy,brown,M,13,Open Box,86.0,Fixed,2020-11-01,
+888908,37576,78203,Dress Shoes,Berluti,white,F,1,Used,24.0,Fixed,2020-10-10,
+63146,74093,78203,Dress Shoes,Berluti,white,F,1,Used,37.0,Fixed,2020-10-14,
+988849,78326,78203,Dress Shoes,Berluti,white,F,1,Used,78.0,Fixed,2020-10-17,
+170194,61789,78203,Dress Shoes,Berluti,white,F,1,Used,85.0,Fixed,2020-10-05,2020-12-26
+404809,29076,78221,Dress Shoes,Tommy Hilfiger,black,M,0,New,94.0,Auction,2020-10-06,
+30604,29694,78221,Dress Shoes,Tommy Hilfiger,black,M,0,New,79.0,Fixed,2020-11-01,
+308241,10295,78221,Dress Shoes,Tommy Hilfiger,black,M,0,New,61.0,Auction,2020-11-01,2020-12-01
+476016,160,78221,Dress Shoes,Tommy Hilfiger,black,M,0,New,68.0,Auction,2020-10-22,2020-11-04
+388589,50524,78449,Dress Shoes,Berluti,brown,F,14,Open Box,31.0,Auction,2020-10-01,
+591123,36524,78799,Sneakers,Fila,blue,M,5,New,54.0,Auction,2020-10-15,
+249928,16714,78799,Sneakers,Fila,blue,M,5,New,85.0,Fixed,2020-11-01,2020-12-10
+500298,53783,78799,,Fila,blue,M,5,New,35.0,Auction,2020-11-01,
+243379,96958,78917,Sandals or Flip Flops,Johnston and Murphy,white,M,9,Open Box,90.0,Fixed,2020-10-24,
+318,12476,78917,Sandals or Flip Flops,Johnston and Murphy,white,M,9,Open Box,89.0,Auction,2020-11-01,
+486992,47183,79285,Sandals or Flip Flops,Converse,gray,M,5,New,90.0,Fixed,2020-11-01,2020-11-04
+765867,27832,79655,Sandals or Flip Flops,Johnston & Murphy,black,M,3,Used,85.0,Fixed,2020-10-20,2020-12-02
+133344,29412,79655,Boots,Johnston & Murphy,black,M,3,Used,91.0,Auction,2020-11-01,2020-12-29
+720978,61107,79660,Sandals or Flip Flops,Testoni,brown,M,10,Used,73.0,Fixed,2020-11-01,
+388030,71508,79660,Sandals or Flip Flops,Testoni,brown,M,10,Used,28.0,Auction,2020-11-01,
+829046,6134,80188,Boots,Johnston and Murphy,gray,M,8,Open Box,36.0,Auction,2020-11-01,
+247032,83287,80207,Sneakers,Reebok,,M,2,Open Box,97.0,Fixed,2020-10-13,
+56565,10295,80207,Sandals or Flip Flops,Reebok,brown,M,2,Open Box,80.0,Fixed,2020-11-01,
+197858,98630,80207,Sneakers,Reebok,brown,M,2,Open Box,13.0,Fixed,2020-11-01,
+261944,61789,80636,,Bostonian,black,M,14,Used,27.0,Auction,2020-10-07,2020-12-18
+974326,17000,80636,,Bostonian,black,M,14,Used,93.0,Auction,2020-10-30,2020-11-26
+5361,1903,80636,Dress Shoes,Bostonian,black,M,14,Used,45.0,Fixed,2020-10-13,
+972236,1903,80636,Dress Shoes,Bostonian,black,M,14,Used,18.0,Fixed,2020-11-01,
+268990,1903,80965,Sandals or Flip Flops,,,M,13,Used,35.0,Fixed,2020-10-01,
+876479,72266,80965,Sandals or Flip Flops,Converse,black,M,13,Used,97.0,Auction,2020-11-01,
+439138,9363,81188,Sandals or Flip Flops,Puma,brown,M,14,Open Box,71.0,Auction,2020-10-25,
+261499,99900,81257,Boots,Johnston & Murphy,black,M,11,New,91.0,Auction,2020-11-01,
+671874,76339,81257,Sandals or Flip Flops,Johnston & Murphy,black,M,11,New,76.0,Auction,2020-10-26,2020-12-08
+420295,76394,81397,Dress Shoes,Berluti,black,F,2,New,71.0,Auction,2020-11-01,
+246014,58937,81397,,Berluti,black,F,2,New,12.0,Auction,2020-10-18,
+808795,87739,81398,,Testoni,gray,M,10,Open Box,14.0,Fixed,2020-11-01,
+758945,7617,81398,Sandals or Flip Flops,Testoni,gray,M,10,Open Box,70.0,Auction,2020-11-01,
+945756,37571,81398,,Testoni,gray,M,10,Open Box,89.0,Auction,2020-10-23,
+916829,64569,81398,,Testoni,gray,M,10,Open Box,25.0,Fixed,2020-11-01,
+226977,56260,81398,Sandals or Flip Flops,Testoni,gray,M,10,Open Box,72.0,Auction,2020-10-22,
+671272,25341,82158,Sneakers,NewBalance,brown,M,0,Used,91.0,Auction,2020-11-01,
+64939,93706,82158,,NewBalance,brown,M,0,Used,64.0,Auction,2020-11-01,
+293605,56104,82581,,vans,blue,M,1,New,60.0,Auction,2020-11-01,2020-11-13
+122865,87144,82732,Dress Shoes,Bostonian,brown,F,0,Open Box,79.0,Auction,2020-10-26,
+109566,61869,82732,Dress Shoes,Bostonian,brown,F,0,Open Box,65.0,Auction,2020-10-29,
+100190,55759,82732,Dress Shoes,Bostonian,brown,F,0,Open Box,45.0,Auction,2020-11-01,
+715100,87826,82882,Sneakers,Vans,,M,3,New,56.0,Fixed,2020-11-01,
+197297,28609,82882,Sneakers,Vans,,M,3,New,23.0,Fixed,2020-11-01,2020-12-04
+861527,78370,82882,Sandals or Flip Flops,Vans,gray,M,3,New,49.0,Auction,2020-11-01,2020-12-07
+710871,53783,82882,Sneakers,Vans,gray,M,3,New,15.0,Auction,2020-10-13,
+574484,19353,82882,Sandals or Flip Flops,Vans,gray,M,3,New,26.0,Auction,2020-11-01,2020-12-01
+958245,19816,82981,Sandals or Flip Flops,Converse,gray,M,10,Used,99.0,Auction,2020-11-01,
+989701,43710,83100,Sneakers,Addidas,white,F,8,New,25.0,Auction,2020-10-08,2020-12-01
+907317,17256,84666,Sandals or Flip Flops,Converse,gray,M,12,Open Box,10.0,Fixed,2020-10-19,
+276185,92916,85214,Sandals or Flip Flops,ASICS,yellow,F,14,Used,40.0,Auction,2020-10-19,2020-12-01
+289481,17530,85621,Sneakers,UnderArmor,blue,F,1,Used,37.0,Fixed,2020-10-12,2020-11-28
+606564,34152,85621,Sneakers,UnderArmor,blue,F,1,Used,42.0,Fixed,2020-10-24,2020-12-29
+750162,39903,86730,,Converse,yellow,M,12,Open Box,24.0,Auction,2020-11-01,
+314847,70276,87335,Sandals or Flip Flops,Testoni,yellow,M,10,Used,61.0,Fixed,2020-10-08,
+104459,27832,87335,Sandals or Flip Flops,Testoni,yellow,M,10,Used,87.0,Auction,2020-11-01,
+493191,7617,87410,Sandals or Flip Flops,,brown,F,11,Used,36.0,Auction,2020-11-01,2020-12-02
+51096,69088,88027,Boots,Johnston and Murphy,black,M,13,New,51.0,Auction,2020-10-15,
+115018,90477,88027,Boots,Johnston and Murphy,black,M,13,New,62.0,Auction,2020-11-01,
+269712,8443,88027,Boots,Johnston and Murphy,black,M,13,New,10.0,Auction,2020-11-01,
+235410,80164,88027,Boots,Johnston and Murphy,black,M,13,New,54.0,Fixed,2020-10-19,
+691040,83209,89362,Sneakers,NewBalance,brown,M,13,New,61.0,Fixed,2020-10-07,
+576247,48276,89362,Sneakers,NewBalance,brown,M,13,New,65.0,Auction,2020-10-17,2020-12-14
+638066,45669,89362,Sneakers,NewBalance,brown,M,13,New,79.0,Auction,2020-10-22,
+582279,61663,89742,Sneakers,New Balance,brown,M,3,New,99.0,Fixed,2020-11-01,
+427944,50098,90498,Dress Shoes,Berluti,black,F,7,Open Box,38.0,Auction,2020-11-01,
+881950,94187,90498,Dress Shoes,Berluti,black,F,7,Open Box,70.0,Fixed,2020-10-27,2020-12-05
+463071,71923,90601,Sneakers,Jordan,brown,M,0,New,38.0,Auction,2020-10-27,
+751080,2839,90709,,New Balance,black,M,11,Open Box,55.0,Fixed,2020-10-14,
+796808,73793,91186,Dress Shoes,Tommy Hilfiger,brown,M,8,Open Box,44.0,Fixed,2020-10-04,2020-11-09
+582545,51438,91742,Sneakers,UnderArmor,brown,F,14,New,64.0,Auction,2020-11-01,2020-12-19
+608843,93850,91861,Sneakers,Nike,gray,M,12,Used,90.0,Auction,2020-10-20,
+820081,96958,92035,Boots,Skechers,black,M,14,New,56.0,Auction,2020-11-01,
+135731,35341,92067,,Reebok,blue,M,2,New,28.0,Fixed,2020-10-18,2020-11-14
+224838,57088,93200,Sandals or Flip Flops,Puma,black,M,5,New,73.0,Fixed,2020-10-27,
+962078,53034,93200,,Puma,black,M,5,New,87.0,Fixed,2020-10-27,
+321778,80753,93200,Sandals or Flip Flops,Puma,black,M,5,New,77.0,Auction,2020-10-27,
+920273,22474,93507,Dress Shoes,Bostonian,yellow,M,12,Used,97.0,Fixed,2020-10-14,2020-12-07
+483931,20834,93545,,Converse,gray,M,5,Used,96.0,Fixed,2020-11-01,
+33301,6134,93545,Sandals or Flip Flops,Converse,gray,M,5,Used,12.0,Auction,2020-10-27,2020-11-15
+884331,19628,93545,,Converse,gray,M,5,Used,52.0,Auction,2020-10-15,
+753700,80424,93545,,Converse,gray,M,5,Used,91.0,Fixed,2020-10-02,2020-12-29
+859218,95902,93712,Sneakers,Fila,white,M,7,Used,98.0,Fixed,2020-11-01,
+940465,45419,93712,Sneakers,Fila,white,M,7,Used,73.0,Auction,2020-10-02,
+965176,66149,94795,Dress Shoes,Bostonian,yellow,F,7,New,23.0,Fixed,2020-10-28,
+806005,71508,94795,Dress Shoes,Bostonian,yellow,F,7,New,16.0,Fixed,2020-10-03,
+237395,12476,95555,,Reeboke,white,M,12,New,55.0,Auction,2020-10-28,
+797464,32346,96613,Sandals or Flip Flops,Testoni,black,M,8,Used,74.0,Auction,2020-11-01,
+981789,6134,96613,Sandals or Flip Flops,Testoni,black,M,8,Used,96.0,Auction,2020-11-01,2020-11-14
+981402,86052,97127,Dress Shoes,Berlutti,yellow,F,14,New,61.0,Auction,2020-11-01,2020-12-22
+223946,58233,97127,Dress Shoes,Berlutti,yellow,F,14,New,66.0,Auction,2020-11-01,
+415287,93850,97154,,Johnston and Murphy,black,M,4,Used,89.0,Fixed,2020-11-01,
+808526,39411,97154,Boots,Johnston and Murphy,black,M,4,Used,65.0,Auction,2020-11-01,
+487580,92715,97154,Boots,Johnston and Murphy,black,M,4,Used,56.0,Fixed,2020-10-28,2020-11-27
+88657,67837,97528,Sneakers,nike,black,M,14,New,32.0,Auction,2020-10-27,2020-12-03
+572669,72897,97528,Sandals or Flip Flops,nike,black,M,14,New,38.0,Auction,2020-10-21,2020-12-09
+755672,96958,97528,Sneakers,nike,black,M,14,New,39.0,Auction,2020-10-21,
+120714,51438,97863,Sandals or Flip Flops,Converse,white,M,11,New,51.0,Auction,2020-11-01,
+902275,76394,97863,Sandals or Flip Flops,Converse,white,M,11,New,73.0,Auction,2020-10-23,
+894536,56363,97863,Sandals or Flip Flops,Converse,white,M,11,New,70.0,Auction,2020-10-28,
+394299,78370,97949,Sneakers,nike,blue,M,13,New,90.0,Fixed,2020-11-01,
+796446,93850,97949,Sneakers,nike,blue,M,13,New,68.0,Fixed,2020-10-14,2020-12-10
+806990,42783,97949,Sneakers,nike,blue,M,13,New,63.0,Fixed,2020-10-24,
+733276,92386,98325,,Skechers,brown,M,10,Open Box,76.0,Fixed,2020-11-01,
+634136,98114,98325,Boots,Skechers,brown,M,10,Open Box,12.0,Auction,2020-11-01,
+188201,38833,98925,,Johnston and Murphy,brown,M,1,New,41.0,Auction,2020-11-01,
+53107,56104,99561,,Tommy Hilfiger,brown,M,2,New,94.0,Fixed,2020-11-01,2020-11-02
+680004,5567,99646,Sneakers,Reebok,brown,M,5,New,52.0,Fixed,2020-11-01,
+990712,16464,99655,Boots,Johnston and Murphy,white,M,11,New,24.0,Fixed,2020-11-01,
+304162,39536,99655,Boots,Johnston and Murphy,white,M,11,New,74.0,Auction,2020-10-22,
+471874,14112,99655,,Johnston and Murphy,white,M,11,New,19.0,Auction,2020-10-19,
+478752,90141,99838,Sandals or Flip Flops,Puma,black,M,7,Used,73.0,Auction,2020-11-01,
