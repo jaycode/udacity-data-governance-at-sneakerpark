@@ -32,8 +32,8 @@ def parse_sql(sql_content):
                 'unique': unique,
                 'primary_key': primary_key,
                 'foreign_key': 'N',
-                'foreign_key_table': '',
-                'foreign_key_column': ''
+                'foreign_key_table': 'N/A',
+                'foreign_key_column': 'N/A'
             })
         
         # Check for foreign keys
