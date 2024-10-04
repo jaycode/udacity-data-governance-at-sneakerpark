@@ -5,7 +5,7 @@ from collections import defaultdict
 def parse_sql(sql_content):
     # Regular expressions to match table and column definitions
     table_regex = re.compile(r'CREATE TABLE ([\w\.]+) \((.*?)\);', re.S)
-    column_regex = re.compile(r'\n(\w+)\s+(\w+\(?\d*\)?)\s*(NOT NULL)?\s*(PRIMARY KEY)?\s*(UNIQUE)?\s*(,|\n|\))', re.S)
+    column_regex = re.compile(r'\n(\w+)\s+(\w+)\s*\(?\d*\)?\s*(NOT NULL|NULL)?\s*(PRIMARY KEY)?\s*(UNIQUE)?\s*(,|\n|\))', re.S)
     foreign_key_regex = re.compile(r'FOREIGN KEY \((\w+)\) REFERENCES ([\w\.]+) ?\((\w+)\)', re.S)
     insert_regex = re.compile(r'INSERT INTO ([\w\.]+) \((.*?)\) VALUES \((.*?)\);', re.S)
     
